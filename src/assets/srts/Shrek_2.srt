@@ -1,0 +1,6114 @@
+1
+00:01:19,663 --> 00:01:24,334
+<i>Once upon a time
+in a kingdom far, faraway,</i>
+
+2
+00:01:24,418 --> 00:01:27,963
+<i>the king and queen were blessed
+with a beautiful baby girl.</i>
+
+3
+00:01:28,714 --> 00:01:31,425
+<i>And throughout the land,
+everyone was happy</i>
+
+4
+00:01:32,718 --> 00:01:34,553
+<i>until the sun went down</i>
+
+5
+00:01:34,636 --> 00:01:38,640
+<i>and they saw that their daughter
+was cursed with a frightful enchantment</i>
+
+6
+00:01:38,724 --> 00:01:41,435
+<i>that took hold each and every night.</i>
+
+7
+00:01:43,562 --> 00:01:47,107
+<i>Desperate, they sought the help
+of a fairy godmother</i>
+
+8
+00:01:47,190 --> 00:01:49,985
+<i>who had them lock the young princess
+away in a tower,</i>
+
+9
+00:01:50,068 --> 00:01:53,614
+<i>there to await the kiss
+of the handsome Prince Charming.</i>
+
+10
+00:01:57,242 --> 00:01:59,536
+<i>It was he who would chance
+the perilous journey</i>
+
+11
+00:01:59,620 --> 00:02:02,831
+<i>through blistering cold
+and scorching desert,</i>
+
+12
+00:02:02,914 --> 00:02:05,250
+<i>traveling for many days and nights,</i>
+
+13
+00:02:05,334 --> 00:02:07,085
+<i>risking life and limb</i>
+
+14
+00:02:07,961 --> 00:02:10,380
+<i>to reach the Dragon's Keep.</i>
+
+15
+00:02:15,135 --> 00:02:17,304
+For he was the bravest
+
+16
+00:02:18,180 --> 00:02:20,432
+and most handsome...
+
+17
+00:02:23,644 --> 00:02:25,228
+in all the land.
+
+18
+00:02:25,312 --> 00:02:28,273
+And it was destiny that his kiss
+
+19
+00:02:29,399 --> 00:02:32,361
+would break the dreaded curse.
+
+20
+00:02:33,403 --> 00:02:37,574
+He alone would climb to the highest room
+of the tallest tower
+
+21
+00:02:38,325 --> 00:02:43,372
+to enter the princess's chambers,
+cross the room to her sleeping silhouette,
+
+22
+00:02:43,455 --> 00:02:45,415
+pull back the gossamer curtains
+to find her--
+
+23
+00:02:47,292 --> 00:02:48,126
+What?
+
+24
+00:02:48,752 --> 00:02:51,797
+- Princess Fiona?
+- No!
+
+25
+00:02:51,880 --> 00:02:54,966
+Oh, thank heavens. Where is she?
+
+26
+00:02:55,050 --> 00:02:56,259
+She's on her honeymoon.
+
+27
+00:02:56,343 --> 00:02:58,804
+Honeymoon?
+With whom?
+
+28
+00:03:13,402 --> 00:03:16,571
+♪ <i>So, she said
+"What's the problem, baby?"</i> ♪
+
+29
+00:03:16,655 --> 00:03:20,450
+♪ <i>What's the problem? I don't know
+Well, maybe I'm in love</i> ♪
+
+30
+00:03:20,534 --> 00:03:22,994
+♪ <i>Think about it
+Every time I think about it</i> ♪
+
+31
+00:03:23,078 --> 00:03:25,163
+♪ <i>Can't stop thinking 'bout it</i> ♪
+
+32
+00:03:25,247 --> 00:03:28,667
+♪ <i>How much longer will it take
+To cure this?</i> ♪
+
+33
+00:03:28,750 --> 00:03:32,546
+♪ <i>Just to cure it
+'Cause I can't ignore it if it's love</i> ♪
+
+34
+00:03:32,629 --> 00:03:37,843
+♪ <i>Makes me wanna turn around and face me
+But I don't know nothin' 'bout love...</i> ♪
+
+35
+00:03:41,847 --> 00:03:45,475
+♪ <i>Come on, come on
+The world will follow after</i> ♪
+
+36
+00:03:45,559 --> 00:03:47,394
+♪ <i>Come on, come on</i> ♪
+
+37
+00:03:47,477 --> 00:03:53,567
+♪ <i>Everybody's after love...</i> ♪
+
+38
+00:03:58,363 --> 00:04:00,615
+Ow! Ow! Ow! Ow!
+
+39
+00:04:04,035 --> 00:04:09,416
+♪ <i>Meltin' under blue skies
+Belting out sunlight, shimmering love...</i> ♪
+
+40
+00:04:11,251 --> 00:04:14,629
+♪ <i>To this strawberry ice cream
+Never-ever-ender</i> ♪
+
+41
+00:04:14,713 --> 00:04:16,339
+♪ <i>All this love</i> ♪
+
+42
+00:04:16,423 --> 00:04:21,094
+♪ <i>Well, I didn't mean to do it
+But there's no escaping your love</i> ♪
+
+43
+00:04:22,596 --> 00:04:26,850
+♪ <i>These lines of lightnin'
+Mean we're never alone</i> ♪
+
+44
+00:04:26,933 --> 00:04:28,185
+♪ <i>Never alone...</i> ♪
+
+45
+00:04:30,687 --> 00:04:32,564
+♪ <i>Jump a little higher</i> ♪
+
+46
+00:04:32,647 --> 00:04:35,984
+♪ <i>Come on, come on
+If you feel a little lighter...</i> ♪
+
+47
+00:04:40,739 --> 00:04:41,990
+Hi-yah!
+
+48
+00:04:45,118 --> 00:04:48,663
+♪ <i>We're accidentally in love...</i> ♪
+
+49
+00:05:03,929 --> 00:05:06,097
+♪ <i>Accidentally in love</i> ♪
+
+50
+00:05:06,181 --> 00:05:09,267
+♪ <i>Accidentally, I'm in love, I'm in love</i> ♪
+
+51
+00:05:09,351 --> 00:05:13,063
+♪ <i>I'm in love, I'm in love
+I'm in love, I'm in love</i> ♪
+
+52
+00:05:13,146 --> 00:05:16,733
+♪ <i>Accidentally in love</i> ♪
+
+53
+00:05:16,817 --> 00:05:20,487
+♪ <i>I'm in love...</i> ♪
+
+54
+00:05:22,447 --> 00:05:24,825
+It's so good to be home!
+
+55
+00:05:25,534 --> 00:05:27,536
+Ooh!
+
+56
+00:05:27,619 --> 00:05:28,995
+Just you and me and--
+
+57
+00:05:29,079 --> 00:05:32,207
+♪ <i>One is the loneliest number
+That you'll ever do</i> ♪
+
+58
+00:05:33,667 --> 00:05:36,837
+♪ <i>Two can be as bad as one</i> ♪
+
+59
+00:05:36,920 --> 00:05:37,754
+Donkey?
+
+60
+00:05:37,838 --> 00:05:39,506
+Shrek! Fiona!
+
+61
+00:05:39,589 --> 00:05:41,716
+Well, aren't you two
+a sight for sore eyes!
+
+62
+00:05:41,800 --> 00:05:43,927
+Give us a hug, Shrek,
+you old love machine.
+
+63
+00:05:45,345 --> 00:05:48,473
+And look at you, Mrs. Shrek.
+How about a side of sugar for the steed?
+
+64
+00:05:48,557 --> 00:05:50,767
+Donkey, what are you doing here?
+
+65
+00:05:50,851 --> 00:05:52,894
+I was just taking care of
+your love nest for you.
+
+66
+00:05:52,978 --> 00:05:57,649
+Oh, you mean like sorting the mail
+and watering the plants.
+
+67
+00:05:57,732 --> 00:05:58,984
+Yeah, and feeding the fish.
+
+68
+00:05:59,067 --> 00:06:00,318
+I don't have any fish.
+
+69
+00:06:00,402 --> 00:06:03,530
+You do now.
+I call that one Shrek and the other Fiona.
+
+70
+00:06:03,613 --> 00:06:06,032
+That Shrek is a rascally devil.
+Get your...
+
+71
+00:06:06,116 --> 00:06:09,160
+Oh, will you look at the time.
+Well, I guess you'd better be going.
+
+72
+00:06:09,244 --> 00:06:10,912
+Don't you want to tell me about your trip?
+
+73
+00:06:10,996 --> 00:06:13,582
+Or how about a game of Parcheesi?
+
+74
+00:06:13,665 --> 00:06:17,586
+Actually, Donkey?
+Shouldn't you be getting home to Dragon?
+
+75
+00:06:17,669 --> 00:06:19,337
+Oh, yeah, that.
+
+76
+00:06:19,838 --> 00:06:23,425
+I don't know.
+She's been all moody and stuff lately.
+
+77
+00:06:23,508 --> 00:06:25,427
+So I thought I'd move back in
+with you guys.
+
+78
+00:06:25,510 --> 00:06:28,221
+Well, you know we're always
+happy to see you, Donkey.
+
+79
+00:06:28,305 --> 00:06:30,932
+But Fiona and I are married now.
+
+80
+00:06:31,016 --> 00:06:34,185
+We need a little time, you know,
+to be together.
+
+81
+00:06:36,438 --> 00:06:37,564
+Just with each other.
+
+82
+00:06:39,900 --> 00:06:40,901
+Alone.
+
+83
+00:06:40,984 --> 00:06:43,612
+Say no more.
+You don't have to worry about a thing.
+
+84
+00:06:43,695 --> 00:06:46,656
+I will always be here to make sure
+nobody bothers you.
+
+85
+00:06:46,740 --> 00:06:48,450
+- Donkey!
+- Yes, roomie?
+
+86
+00:06:48,533 --> 00:06:49,868
+You're bothering me.
+
+87
+00:06:51,036 --> 00:06:54,039
+Oh, okay. Uh, all right, cool.
+I guess, uh...
+
+88
+00:06:54,789 --> 00:06:57,626
+Me and Pinocchio was just going
+to try to catch a tournament, anyway.
+
+89
+00:06:57,709 --> 00:07:01,713
+So, uh, maybe I'll see y'all Sunday
+for a barbecue or something.
+
+90
+00:07:04,716 --> 00:07:08,970
+He'll be fine. Now, where were we?
+
+91
+00:07:09,054 --> 00:07:12,140
+Ooh. I think I remember.
+
+92
+00:07:15,226 --> 00:07:16,353
+Donkey!
+
+93
+00:07:16,436 --> 00:07:19,689
+I know, I know! Alone!
+I'm going! I'm going.
+
+94
+00:07:19,773 --> 00:07:21,399
+But what do you want me
+to tell these guys?
+
+95
+00:07:33,453 --> 00:07:35,038
+Enough, Reggie.
+
+96
+00:07:38,667 --> 00:07:41,503
+"Dearest Princess Fiona.
+
+97
+00:07:41,586 --> 00:07:45,799
+You are hereby summoned
+to the Kingdom of Far, Far Away
+
+98
+00:07:45,882 --> 00:07:49,803
+for a royal ball
+in celebration of your marriage
+
+99
+00:07:49,886 --> 00:07:51,972
+at which time the King
+
+100
+00:07:52,055 --> 00:07:57,435
+will bestow his royal blessing
+upon you and your, uh--
+
+101
+00:07:57,519 --> 00:07:59,312
+Uh, Prince Charming.
+
+102
+00:07:59,396 --> 00:08:04,150
+Love, the King and Queen of Far, Far Away.
+
+103
+00:08:04,234 --> 00:08:06,569
+Aka Mom and Dad."
+
+104
+00:08:06,653 --> 00:08:08,029
+Mom and Dad?
+
+105
+00:08:08,071 --> 00:08:11,491
+- Prince Charming?
+- Royal ball? Can I come?
+
+106
+00:08:11,574 --> 00:08:13,368
+- We're not going.
+- What?
+
+107
+00:08:13,451 --> 00:08:16,287
+I mean, don't you think
+they might be a bit
+
+108
+00:08:16,371 --> 00:08:19,499
+shocked to see you like this?
+
+109
+00:08:19,582 --> 00:08:22,210
+Well, they might be a bit surprised.
+
+110
+00:08:22,293 --> 00:08:25,380
+But they're my parents, Shrek.
+They love me.
+
+111
+00:08:25,463 --> 00:08:27,674
+And don't worry.
+They're gonna love you too.
+
+112
+00:08:27,757 --> 00:08:31,594
+Yeah, right. Somehow I don't think
+I'll be welcome at the country club.
+
+113
+00:08:31,678 --> 00:08:33,471
+Will you stop it.
+They're not like that.
+
+114
+00:08:33,555 --> 00:08:37,142
+Then how do you explain Sergeant Pompous
+and the Fancy Pants Club Band?
+
+115
+00:08:37,225 --> 00:08:40,562
+Oh, come on!
+You could at least give them a chance.
+
+116
+00:08:40,645 --> 00:08:42,647
+Oh, to do what?
+Sharpen their pitchforks?
+
+117
+00:08:42,731 --> 00:08:45,608
+No! They just want
+to give you their blessing.
+
+118
+00:08:45,692 --> 00:08:49,779
+Oh, great. Now I need their blessing?
+
+119
+00:08:49,863 --> 00:08:52,323
+Well, if you want to be a part
+of this family, yes!
+
+120
+00:08:52,407 --> 00:08:54,451
+And who says I want
+to be part of this family?
+
+121
+00:08:54,534 --> 00:08:57,537
+Uh, you did!
+When you married me!
+
+122
+00:08:57,620 --> 00:08:59,706
+Well, there's some fine print for you!
+
+123
+00:08:59,789 --> 00:09:02,834
+So-- So that's it.
+You won't come?
+
+124
+00:09:02,917 --> 00:09:08,006
+Trust me. It's a bad idea.
+We are not going and that's final!
+
+125
+00:09:09,883 --> 00:09:12,510
+Hey, come on, Shrek!
+We don't want to hit traffic!
+
+126
+00:09:15,388 --> 00:09:17,974
+Don't worry!
+We'll take care of everything.
+
+127
+00:09:19,934 --> 00:09:21,061
+Hey, wait for me!
+
+128
+00:09:28,777 --> 00:09:30,987
+♪ <i>All right, hit it! Move 'em on!
+Head 'em up!</i> ♪
+
+129
+00:09:31,071 --> 00:09:33,198
+♪ <i>Head 'em up, move 'em on! Head 'em up!</i> ♪
+
+130
+00:09:33,281 --> 00:09:35,742
+♪ <i>Rawhide! Move 'em on! Head 'em up!</i> ♪
+
+131
+00:09:35,825 --> 00:09:38,119
+♪ <i>Move 'em on! Move 'em on!
+Head 'em up! Rawhide!</i> ♪
+
+132
+00:09:38,203 --> 00:09:42,624
+♪ <i>Ride 'em up! Move 'em on!
+Head 'em up! Move 'em on! Rawhide!</i> ♪
+
+133
+00:09:42,707 --> 00:09:44,876
+♪ <i>Knock 'em out! Pound 'em dead!
+Make 'em tea! Buy 'em drinks!</i> ♪
+
+134
+00:09:44,959 --> 00:09:46,628
+♪ <i>Meet their mamas! Milk 'em hard!</i> ♪
+
+135
+00:09:46,711 --> 00:09:48,463
+♪ <i>Rawhide!</i> ♪
+
+136
+00:09:48,546 --> 00:09:50,090
+Yeehaw!
+
+137
+00:09:54,844 --> 00:09:56,805
+- Are we there yet?
+- No.
+
+138
+00:10:00,600 --> 00:10:02,727
+- Are we there yet?
+- Not yet.
+
+139
+00:10:06,272 --> 00:10:08,691
+- Okay, are we there yet?
+- No.
+
+140
+00:10:09,818 --> 00:10:11,319
+- Are we there yet?
+- No!
+
+141
+00:10:11,402 --> 00:10:13,404
+- Are we there yet?
+- Yes.
+
+142
+00:10:13,488 --> 00:10:15,115
+- Really?
+- No!
+
+143
+00:10:15,198 --> 00:10:16,366
+- Are we there yet?
+- No!
+
+144
+00:10:16,449 --> 00:10:18,076
+- Are we there yet?
+- No, we are not!
+
+145
+00:10:18,159 --> 00:10:20,411
+- Are we there yet?
+- No!
+
+146
+00:10:22,330 --> 00:10:23,873
+- Are we there yet?
+- Are we there yet?
+
+147
+00:10:23,957 --> 00:10:25,500
+That's not funny.
+
+148
+00:10:25,583 --> 00:10:27,669
+That's really immature.
+
+149
+00:10:28,628 --> 00:10:30,421
+This is why nobody likes ogres.
+
+150
+00:10:30,505 --> 00:10:31,756
+All right! Your loss!
+
+151
+00:10:31,840 --> 00:10:34,467
+- I'm gonna just stop talking!
+- Finally!
+
+152
+00:10:35,802 --> 00:10:38,888
+But this is taking forever, Shrek.
+There ain't no in-flight movie or nothing.
+
+153
+00:10:38,972 --> 00:10:43,101
+The Kingdom of Far, Far Away, Donkey.
+
+154
+00:10:43,184 --> 00:10:47,313
+That's where we're going. Far, far...
+
+155
+00:10:47,397 --> 00:10:49,023
+...away!
+
+156
+00:10:49,107 --> 00:10:52,694
+All right, all right, I get it.
+I'm just so darn bored.
+
+157
+00:10:52,777 --> 00:10:55,280
+Well, find a way to entertain yourself.
+
+158
+00:11:17,927 --> 00:11:20,722
+For five minutes,
+
+159
+00:11:20,805 --> 00:11:25,310
+could you not be yourself
+for five minutes!
+
+160
+00:11:32,358 --> 00:11:34,110
+Are we there yet?
+
+161
+00:11:34,194 --> 00:11:36,362
+- Yes!
+- Oh, finally!
+
+162
+00:11:48,666 --> 00:11:50,668
+Wow!
+
+163
+00:11:51,920 --> 00:11:55,840
+It's going to be champagne wishes
+and caviar dreams from now on.
+
+164
+00:11:56,424 --> 00:11:59,260
+Hey, good looking!
+We'll be back to pick you up later!
+
+165
+00:11:59,344 --> 00:12:01,804
+- Star maps! Get your star maps!
+- Ooh, panty hose!
+
+166
+00:12:07,894 --> 00:12:10,521
+We are definitely not
+in the swamp anymore.
+
+167
+00:12:12,607 --> 00:12:13,608
+Halt.
+
+168
+00:12:14,943 --> 00:12:20,198
+♪ <i>Well, I talk about it, talk about it
+Talk about it, talk about it...</i> ♪
+
+169
+00:12:22,116 --> 00:12:23,493
+Hey, everyone look!
+
+170
+00:12:34,796 --> 00:12:39,175
+Hey, ladies! Nice day for a parade, huh?
+Yeah. You working that hat.
+
+171
+00:12:47,183 --> 00:12:50,144
+Swimming pools! Movie stars!
+
+172
+00:13:25,138 --> 00:13:28,349
+Announcing the long-awaited return
+
+173
+00:13:28,433 --> 00:13:32,937
+of the beautiful Princess Fiona
+and her new husband.
+
+174
+00:13:34,647 --> 00:13:36,482
+Well, this is it.
+
+175
+00:13:36,566 --> 00:13:38,526
+- This is it.
+- This is it.
+
+176
+00:13:38,609 --> 00:13:39,819
+This is it.
+
+177
+00:14:02,091 --> 00:14:05,511
+Uh, why don't you guys go ahead?
+I'll park the car.
+
+178
+00:14:09,057 --> 00:14:11,601
+So...
+
+179
+00:14:11,684 --> 00:14:14,479
+...you still think this is a good idea?
+
+180
+00:14:14,562 --> 00:14:18,983
+Of course. Look.
+Mom and Dad look happy to see us.
+
+181
+00:14:19,067 --> 00:14:20,985
+Who on earth are they?
+
+182
+00:14:21,069 --> 00:14:23,071
+I think that's our little girl.
+
+183
+00:14:23,154 --> 00:14:26,657
+That's not little.
+That's a really big problem.
+
+184
+00:14:26,741 --> 00:14:29,911
+Wasn't she supposed to kiss
+Prince Charming and break the spell?
+
+185
+00:14:29,994 --> 00:14:33,373
+Well, he's no Prince Charming,
+but they do look--
+
+186
+00:14:33,456 --> 00:14:37,210
+Happy now? We came. We saw them.
+
+187
+00:14:37,293 --> 00:14:39,796
+Now let's go before
+they light the torches.
+
+188
+00:14:39,879 --> 00:14:43,216
+- They're my parents.
+- Hello, they locked you in a tower.
+
+189
+00:14:43,299 --> 00:14:44,550
+Hey, that was for my own--
+
+190
+00:14:44,634 --> 00:14:48,262
+Good! Now here's our chance.
+Let's go back inside and pretend we're not home.
+
+191
+00:14:48,346 --> 00:14:49,806
+Harold, we have to be--
+
+192
+00:14:49,889 --> 00:14:52,725
+Quick! While they're not looking
+we can make a run for it.
+
+193
+00:14:52,809 --> 00:14:54,894
+Shrek, stop it! Everything's gonna be--
+
+194
+00:14:54,977 --> 00:14:57,313
+A disaster! There is no way--
+
+195
+00:14:57,397 --> 00:14:59,023
+- You can do this.
+- But I really--
+
+196
+00:14:59,107 --> 00:14:59,941
+- Really--
+- Really--
+
+197
+00:15:00,024 --> 00:15:01,317
+Don't-- Want-- To-- Be--
+
+198
+00:15:01,401 --> 00:15:02,610
+Here!
+
+199
+00:15:06,197 --> 00:15:07,365
+Mom,
+
+200
+00:15:07,448 --> 00:15:08,825
+Dad...
+
+201
+00:15:10,326 --> 00:15:13,246
+I'd like you to meet my husband, Shrek.
+
+202
+00:15:16,541 --> 00:15:17,792
+Well, um--
+
+203
+00:15:18,292 --> 00:15:23,005
+It's easy to see where Fiona
+gets her good looks from.
+
+204
+00:15:51,284 --> 00:15:52,994
+Hmm.
+
+205
+00:15:59,792 --> 00:16:02,003
+Excuse me.
+
+206
+00:16:02,086 --> 00:16:04,714
+Better out than in, I always say,
+eh, Fiona?
+
+207
+00:16:07,508 --> 00:16:08,968
+That's good.
+
+208
+00:16:10,178 --> 00:16:11,971
+- Uh...
+- I guess not.
+
+209
+00:16:12,054 --> 00:16:13,639
+What do you mean, "not on the list"?
+
+210
+00:16:13,723 --> 00:16:15,600
+Don't tell me you don't know who I am.
+
+211
+00:16:15,683 --> 00:16:19,020
+Hey, what's happening, everybody?
+Thanks for waiting.
+
+212
+00:16:19,103 --> 00:16:20,605
+I had the hardest time finding this place.
+
+213
+00:16:20,688 --> 00:16:23,024
+No! No! Bad donkey! Bad! Down!
+
+214
+00:16:23,107 --> 00:16:26,486
+No, no, no, Dad. Dad, it's all right.
+It's all right. He's with us.
+
+215
+00:16:26,569 --> 00:16:30,072
+- He helped rescue me from the dragon.
+- Yep, that's me, the noble steed.
+
+216
+00:16:30,156 --> 00:16:32,074
+Hey, waiter!
+How about a bowl for the steed?
+
+217
+00:16:32,158 --> 00:16:33,242
+Oh, boy.
+
+218
+00:16:36,329 --> 00:16:38,080
+- Um, Shrek?
+- Yeah?
+
+219
+00:16:38,164 --> 00:16:41,626
+Oh, sorry! Great soup, Mrs. Q.
+
+220
+00:16:41,709 --> 00:16:43,252
+- Mmm.
+- No, no, no.
+
+221
+00:16:43,336 --> 00:16:44,545
+Darling.
+
+222
+00:16:45,796 --> 00:16:47,840
+Oh!
+
+223
+00:16:49,425 --> 00:16:53,221
+So, Fiona, tell us about where you live.
+
+224
+00:16:53,304 --> 00:16:57,975
+Well, Shrek owns his own land.
+
+225
+00:16:58,059 --> 00:17:00,478
+- Don't you, honey?
+- Oh, yes!
+
+226
+00:17:00,561 --> 00:17:03,439
+It's in an enchanted forest,
+
+227
+00:17:03,523 --> 00:17:05,942
+abundant in squirrels
+
+228
+00:17:06,025 --> 00:17:08,903
+and cute little duckies and--
+
+229
+00:17:08,986 --> 00:17:11,322
+What? I know you ain't
+talking about the swamp.
+
+230
+00:17:11,405 --> 00:17:15,201
+- Donkey!
+- An ogre from a swamp. Oh! How original.
+
+231
+00:17:16,244 --> 00:17:19,163
+Well, I suppose that would be
+a fine place to raise the children.
+
+232
+00:17:27,630 --> 00:17:28,756
+Ah...
+
+233
+00:17:28,839 --> 00:17:32,468
+It's a bit early to be
+thinking about that, isn't it?
+
+234
+00:17:32,552 --> 00:17:35,471
+- Indeed. I just started eating.
+- Harold!
+
+235
+00:17:35,555 --> 00:17:38,224
+- What's that supposed to mean?
+- Dad. It's great, okay?
+
+236
+00:17:38,307 --> 00:17:41,102
+- Well, for his type, yes.
+- My type?
+
+237
+00:17:41,185 --> 00:17:43,020
+I got to go to the bathroom.
+
+238
+00:17:43,104 --> 00:17:46,524
+- Dinner is served!
+- Never mind. I can hold it.
+
+239
+00:17:52,363 --> 00:17:56,033
+- <i>Bon appétit!</i>
+- Oh, Mexican food! My favorite.
+
+240
+00:17:56,117 --> 00:17:59,870
+Well, let's not just sit here with our
+tummies rumbling. Everybody dig in.
+
+241
+00:17:59,954 --> 00:18:01,163
+Don't mind if I do, Lillian.
+
+242
+00:18:01,247 --> 00:18:05,084
+So, I suppose any grandchildren
+I could expect from you would be--
+
+243
+00:18:05,167 --> 00:18:07,003
+Ogres, yes!
+
+244
+00:18:07,086 --> 00:18:10,548
+Not that there's anything wrong with that.
+Right, Harold?
+
+245
+00:18:10,631 --> 00:18:12,508
+Oh, no! No! Of course, not!
+
+246
+00:18:12,592 --> 00:18:15,678
+That is, assuming you don't
+eat your own young!
+
+247
+00:18:15,761 --> 00:18:17,138
+- Dad!
+- Oh, no.
+
+248
+00:18:17,221 --> 00:18:20,683
+We usually prefer the ones
+who've been locked away in a tower!
+
+249
+00:18:21,350 --> 00:18:23,978
+- Shrek, please!
+- I only did that because I love her.
+
+250
+00:18:24,061 --> 00:18:26,939
+Oh, aye, day care
+or dragon-guarded castle.
+
+251
+00:18:27,023 --> 00:18:29,108
+You wouldn't understand.
+You're not her father!
+
+252
+00:18:34,947 --> 00:18:38,117
+It's so nice to have the family
+together for dinner.
+
+253
+00:18:41,912 --> 00:18:43,873
+- Harold!
+- Shrek!
+
+254
+00:18:43,956 --> 00:18:44,957
+- Fiona!
+- Fiona!
+
+255
+00:18:45,041 --> 00:18:46,292
+- Mom!
+- Harold--
+
+256
+00:18:46,375 --> 00:18:47,668
+Donkey!
+
+257
+00:19:50,564 --> 00:19:54,527
+♪ <i>Your fallen tears have called to me</i> ♪
+
+258
+00:19:54,610 --> 00:19:58,447
+♪ <i>So, here comes my sweet remedy</i> ♪
+
+259
+00:19:59,615 --> 00:20:03,994
+♪ <i>I know what every princess needs</i> ♪
+
+260
+00:20:04,078 --> 00:20:09,542
+♪ <i>For her to live life happily</i> ♪
+
+261
+00:20:10,876 --> 00:20:12,586
+Oh, my dear.
+
+262
+00:20:12,670 --> 00:20:13,963
+Oh, look at you.
+
+263
+00:20:14,046 --> 00:20:15,840
+You're all, um,
+
+264
+00:20:15,923 --> 00:20:17,800
+grown up.
+
+265
+00:20:17,883 --> 00:20:19,719
+Um, who are you?
+
+266
+00:20:19,802 --> 00:20:21,846
+Oh, sweet pea!
+
+267
+00:20:21,929 --> 00:20:23,639
+I'm your fairy godmother.
+
+268
+00:20:23,723 --> 00:20:26,600
+I have a fairy godmother?
+
+269
+00:20:26,684 --> 00:20:31,147
+Now don't worry.
+I'm here to make it all better.
+
+270
+00:20:31,230 --> 00:20:34,525
+With just a...
+
+271
+00:20:34,608 --> 00:20:38,362
+♪ <i>Wave of my magic wand
+Your troubles will soon be gone</i> ♪
+
+272
+00:20:38,446 --> 00:20:40,823
+♪ <i>With a flick of the wrist
+And just a flash</i> ♪
+
+273
+00:20:40,906 --> 00:20:43,200
+♪ <i>You'll land a prince
+With a ton of cash</i> ♪
+
+274
+00:20:43,284 --> 00:20:45,202
+♪ <i>A high-priced dress
+Made by mice no less</i> ♪
+
+275
+00:20:45,286 --> 00:20:47,371
+♪ <i>Some crystal glass pumps
+And no more stress</i> ♪
+
+276
+00:20:47,455 --> 00:20:49,498
+♪ <i>Your worries will vanish
+Your soul will cleanse</i> ♪
+
+277
+00:20:49,582 --> 00:20:51,625
+♪ <i>Confide in
+Your very own furniture friends</i> ♪
+
+278
+00:20:51,709 --> 00:20:54,253
+♪ <i>We'll help you set a new fashion trend</i> ♪
+
+279
+00:20:54,336 --> 00:20:55,963
+♪ <i>I'll make you fancy</i> ♪
+
+280
+00:20:56,046 --> 00:20:57,173
+♪ <i>I'll make you great</i> ♪
+
+281
+00:20:57,256 --> 00:20:58,924
+♪ <i>The kind of gal the prince would date!</i> ♪
+
+282
+00:20:59,008 --> 00:21:01,010
+♪ <i>They'll write your name
+On the bathroom wall...</i> ♪
+
+283
+00:21:01,093 --> 00:21:03,095
+"For a happy ever after,
+give Fiona a call!"
+
+284
+00:21:03,179 --> 00:21:07,183
+♪ <i>A sporty carriage to ride in style
+Sexy man-boy chauffeur, "Kyle"</i> ♪
+
+285
+00:21:07,266 --> 00:21:11,103
+♪ <i>Banish your blemishes, tooth decay
+Cellulite thighs will fade away</i> ♪
+
+286
+00:21:11,187 --> 00:21:13,606
+♪ <i>And oh, what the hey!
+Have a bichon frisé!</i> ♪
+
+287
+00:21:13,689 --> 00:21:15,983
+♪ <i>Nip and tuck, here and there</i> ♪
+
+288
+00:21:16,066 --> 00:21:17,651
+♪ <i>To land that prince
+With the perfect hair</i> ♪
+
+289
+00:21:17,735 --> 00:21:21,030
+♪ <i>Lipstick liners, shadows blush
+To get the prince with the sexy tush</i> ♪
+
+290
+00:21:21,113 --> 00:21:22,615
+♪ <i>Lucky day, hunk buffet</i> ♪
+
+291
+00:21:22,698 --> 00:21:24,116
+♪ <i>You and your prince
+Take a roll in the hay</i> ♪
+
+292
+00:21:24,200 --> 00:21:27,453
+♪ <i>You can spoon on the moon
+With the prince to this tune</i> ♪
+
+293
+00:21:27,536 --> 00:21:30,164
+♪ <i>Don't be drab, you'll be fab
+Your prince will have rock-hard abs</i> ♪
+
+294
+00:21:30,247 --> 00:21:32,917
+♪ <i>Cheese soufflé, Valentine's Day
+Have some chicken fricassée!</i> ♪
+
+295
+00:21:33,000 --> 00:21:34,126
+♪ <i>Nip and tuck, here and there</i> ♪
+
+296
+00:21:34,210 --> 00:21:35,503
+♪ <i>To land that prince
+With the perfect hair</i> ♪
+
+297
+00:21:35,586 --> 00:21:37,296
+Stop!
+
+298
+00:21:38,005 --> 00:21:39,673
+Look...
+
+299
+00:21:39,757 --> 00:21:42,301
+Thank you very much, Fairy Godmother,
+
+300
+00:21:42,384 --> 00:21:45,221
+but I really don't need all this.
+
+301
+00:21:47,723 --> 00:21:50,017
+- Fine. Be that way.
+- We didn't like you, anyway.
+
+302
+00:21:51,685 --> 00:21:53,646
+Fiona? Fiona!
+
+303
+00:21:57,358 --> 00:22:00,444
+Oh! You got a puppy?
+All I got in my room was shampoo.
+
+304
+00:22:00,528 --> 00:22:01,821
+Oh, uh--
+
+305
+00:22:02,613 --> 00:22:04,990
+Fairy Godmother, furniture,
+
+306
+00:22:05,741 --> 00:22:07,868
+I'd like you to meet my husband, Shrek.
+
+307
+00:22:07,952 --> 00:22:11,747
+Your husband? What? What did you say?
+When did this happen?
+
+308
+00:22:11,831 --> 00:22:13,624
+Shrek is the one who rescued me.
+
+309
+00:22:13,707 --> 00:22:15,209
+But that can't be right.
+
+310
+00:22:15,292 --> 00:22:17,294
+Oh, great, more relatives.
+
+311
+00:22:17,378 --> 00:22:19,171
+She's just trying to help.
+
+312
+00:22:19,255 --> 00:22:22,466
+Good! She can help us pack.
+Get your coat, dear. We're leaving.
+
+313
+00:22:22,550 --> 00:22:24,260
+- What?
+- Leaving? I don't want to leave.
+
+314
+00:22:24,343 --> 00:22:25,719
+When did you decide this?
+
+315
+00:22:25,803 --> 00:22:26,971
+Shortly after arriving.
+
+316
+00:22:27,638 --> 00:22:28,806
+Look, I-- I'm sorry.
+
+317
+00:22:28,889 --> 00:22:31,892
+No, no, no, no, that's all right.
+Uh, I need to go, anyway.
+
+318
+00:22:31,976 --> 00:22:35,437
+But remember, dear.
+If you should ever need me,
+
+319
+00:22:35,521 --> 00:22:38,357
+happiness is just a teardrop away.
+
+320
+00:22:38,440 --> 00:22:40,943
+Thanks, but we've got all the happiness
+we need.
+
+321
+00:22:41,026 --> 00:22:42,903
+Happy, happy, happy!
+
+322
+00:22:42,987 --> 00:22:44,947
+So I see.
+
+323
+00:22:45,656 --> 00:22:46,824
+Let's go, Kyle.
+
+324
+00:22:49,994 --> 00:22:51,328
+Very nice, Shrek.
+
+325
+00:22:51,412 --> 00:22:54,164
+What?
+I told you coming here was a bad idea.
+
+326
+00:22:54,248 --> 00:22:56,917
+You could have at least tried
+to get along with my father.
+
+327
+00:22:57,001 --> 00:23:01,422
+Somehow I don't think I was gonna get
+Daddy's blessing, even if I did want it.
+
+328
+00:23:01,505 --> 00:23:04,967
+Do you think it might be nice
+if somebody asked me what I wanted?
+
+329
+00:23:05,050 --> 00:23:08,012
+Sure. Do you want me to pack for you?
+
+330
+00:23:08,596 --> 00:23:10,306
+You're unbelievable!
+
+331
+00:23:10,389 --> 00:23:12,683
+You're behaving like a--
+
+332
+00:23:13,225 --> 00:23:14,560
+Go on! Say it!
+
+333
+00:23:14,643 --> 00:23:16,061
+Like an ogre!
+
+334
+00:23:16,145 --> 00:23:17,563
+Here's a news flash for you!
+
+335
+00:23:17,646 --> 00:23:19,857
+Whether your parents like it or not,
+
+336
+00:23:19,940 --> 00:23:21,525
+I am an ogre!
+
+337
+00:23:27,323 --> 00:23:31,160
+And guess what, Princess?
+That's not about to change.
+
+338
+00:23:37,124 --> 00:23:41,128
+I've made changes for you, Shrek.
+Think about that.
+
+339
+00:23:43,130 --> 00:23:45,007
+That's real smooth, Shrek.
+
+340
+00:23:45,090 --> 00:23:49,219
+"I'm an ogre!"
+
+341
+00:24:13,118 --> 00:24:16,455
+- I knew this would happen.
+- You should. You started it.
+
+342
+00:24:16,538 --> 00:24:20,584
+I can hardly believe that, Lillian.
+I mean, really. He's the ogre, not me.
+
+343
+00:24:20,668 --> 00:24:24,004
+I think, Harold, you're taking this
+a little too personally.
+
+344
+00:24:24,088 --> 00:24:25,923
+This is Fiona's choice.
+
+345
+00:24:26,006 --> 00:24:29,802
+Yes, but she was supposed to choose
+the prince we picked out for her.
+
+346
+00:24:29,885 --> 00:24:33,889
+I mean, you expect me to give
+my blessings to this-- this thing?
+
+347
+00:24:33,973 --> 00:24:37,559
+Fiona does.
+And she'll never forgive you if you don't.
+
+348
+00:24:38,185 --> 00:24:41,230
+I don't want to lose
+our daughter again, Harold.
+
+349
+00:24:42,690 --> 00:24:45,484
+Oh, you act as if love
+is totally predictable.
+
+350
+00:24:45,567 --> 00:24:48,445
+Don't you remember when we were young
+
+351
+00:24:48,529 --> 00:24:50,948
+and, oh, we used to walk down
+by the lily pond...
+
+352
+00:24:51,031 --> 00:24:52,700
+...and they were in bloom...
+
+353
+00:24:52,783 --> 00:24:54,034
+Our first kiss.
+
+354
+00:24:54,743 --> 00:24:56,245
+It's not the same!
+
+355
+00:24:56,328 --> 00:25:00,124
+I don't think you realize that
+our daughter has married a monster!
+
+356
+00:25:00,207 --> 00:25:02,501
+Oh, stop being such a drama king.
+
+357
+00:25:02,584 --> 00:25:04,503
+Fine! Fine! Pretend there's nothing wrong!
+
+358
+00:25:04,586 --> 00:25:06,213
+La-di-da-di-da-di-da!
+
+359
+00:25:06,296 --> 00:25:09,925
+Isn't it all wonderful?
+I'd like to know how it could get any worse!
+
+360
+00:25:10,009 --> 00:25:11,051
+Hello, Harold.
+
+361
+00:25:11,135 --> 00:25:12,970
+- What happened?
+- Oh, n-nothing!
+
+362
+00:25:13,053 --> 00:25:17,182
+Nothing, dear. Just the old, uh,
+crusade wound playing up a bit.
+
+363
+00:25:17,266 --> 00:25:20,102
+I'll, um, just stretch it
+out here for a while.
+
+364
+00:25:20,185 --> 00:25:23,230
+You better get in.
+We need to talk.
+
+365
+00:25:23,313 --> 00:25:25,983
+Actually, Fairy Godmother,
+just off to bed.
+
+366
+00:25:26,066 --> 00:25:29,319
+Already taken my pills,
+and they tend to make me a bit drowsy.
+
+367
+00:25:29,403 --> 00:25:33,032
+So, um, how about--
+We-- We make this a quick visit. What?
+
+368
+00:25:33,115 --> 00:25:35,826
+Oh. Oh, h-hello.
+
+369
+00:25:38,704 --> 00:25:40,330
+So, what's new?
+
+370
+00:25:40,414 --> 00:25:43,500
+You remember my son, Prince Charming?
+
+371
+00:25:43,584 --> 00:25:47,629
+Charming! Oh, is that you?
+My gosh! It's been years.
+
+372
+00:25:47,713 --> 00:25:49,923
+I-- When-- When did you get back?
+
+373
+00:25:50,007 --> 00:25:53,052
+Oh, about five minutes ago, actually.
+
+374
+00:25:53,135 --> 00:25:56,680
+After I endured blistering winds,
+scorching desert,
+
+375
+00:25:56,764 --> 00:25:58,807
+I climbed to the highest room
+in the tallest tower--
+
+376
+00:25:58,891 --> 00:26:01,477
+Mommy can handle this.
+
+377
+00:26:02,436 --> 00:26:06,356
+He endures blistering winds
+and scorching desert!
+
+378
+00:26:06,440 --> 00:26:09,610
+He climbs to the highest bloody room
+of the tallest bloody tower!
+
+379
+00:26:09,693 --> 00:26:11,612
+- But-- But--
+- And what does he find?
+
+380
+00:26:11,695 --> 00:26:15,407
+Some gender-confused wolf
+telling him that his princess...
+
+381
+00:26:15,491 --> 00:26:17,367
+- If I can just...
+- ...is already married.
+
+382
+00:26:17,451 --> 00:26:19,912
+It wasn't my fault.
+He didn't get there in time.
+
+383
+00:26:19,995 --> 00:26:21,663
+Stop the car!
+
+384
+00:26:23,791 --> 00:26:24,833
+Harold...
+
+385
+00:26:26,168 --> 00:26:30,589
+...you force me to do something
+I really don't want to do.
+
+386
+00:26:30,672 --> 00:26:32,633
+Where are we?
+
+387
+00:26:32,716 --> 00:26:35,719
+Hi there. Welcome to Friar's Fat Boy.
+May I take your order?
+
+388
+00:26:35,803 --> 00:26:39,389
+My diet is ruined!
+I hope you're happy.
+
+389
+00:26:39,473 --> 00:26:42,810
+Uh, okay, two Renaissance Wraps,
+no mayo, chili rings--
+
+390
+00:26:42,893 --> 00:26:44,311
+I'll have the Medieval Meal.
+
+391
+00:26:44,394 --> 00:26:47,147
+Yeah, one Medieval Meal
+and, Harold, curly fries?
+
+392
+00:26:47,231 --> 00:26:49,566
+- Uh, no. No, thank you.
+- Sourdough soft taco, then?
+
+393
+00:26:49,650 --> 00:26:51,276
+- What do you want?
+- No, really, I'm fine.
+
+394
+00:26:51,360 --> 00:26:52,945
+Your order, Fairy Godmother.
+
+395
+00:26:53,028 --> 00:26:55,114
+And this comes with the Medieval Meal.
+
+396
+00:26:55,614 --> 00:26:56,824
+Here you are, dear.
+
+397
+00:26:59,451 --> 00:27:01,411
+You see, we made a deal, Harold,
+
+398
+00:27:01,495 --> 00:27:04,289
+and I assume you don't want me
+to go back on my part.
+
+399
+00:27:04,373 --> 00:27:05,999
+Indeed not.
+
+400
+00:27:06,083 --> 00:27:09,670
+So, Fiona and Charming will be together.
+
+401
+00:27:09,753 --> 00:27:10,712
+Yes.
+
+402
+00:27:10,796 --> 00:27:13,715
+Oh, believe me, Harold. It's what's best.
+
+403
+00:27:13,799 --> 00:27:15,717
+Not only for your daughter...
+
+404
+00:27:17,344 --> 00:27:19,138
+...but for your Kingdom.
+
+405
+00:27:24,017 --> 00:27:26,186
+Well, what am I supposed to do about it?
+
+406
+00:27:27,479 --> 00:27:29,356
+Use your imagination.
+
+407
+00:28:04,308 --> 00:28:05,142
+Oh.
+
+408
+00:28:07,895 --> 00:28:09,938
+Uh, come on in, Your Majesty.
+
+409
+00:28:16,195 --> 00:28:19,031
+♪ <i>I like my town</i> ♪
+
+410
+00:28:20,699 --> 00:28:23,869
+♪ <i>With a little drop of poison</i> ♪
+
+411
+00:28:25,579 --> 00:28:28,415
+♪ <i>Nobody knows...</i> ♪
+
+412
+00:28:29,583 --> 00:28:33,253
+- Excuse me.
+- Hey, do I know you?
+
+413
+00:28:33,337 --> 00:28:36,715
+Uh, no, you must be mistaking me
+for someone else.
+
+414
+00:28:36,798 --> 00:28:40,761
+Uh, excuse me.
+I-I-- I'm looking for the Ugly Stepsister.
+
+415
+00:28:42,554 --> 00:28:45,349
+Ah, there you are. Right.
+
+416
+00:28:45,432 --> 00:28:50,312
+Uh, you see, I--
+I need to have someone taken care of.
+
+417
+00:28:50,938 --> 00:28:54,191
+- Who's the guy?
+- Well, he-- he's not a guy, per se.
+
+418
+00:28:54,274 --> 00:28:56,652
+Um, he's an ogre.
+
+419
+00:28:59,529 --> 00:29:01,573
+Hey, buddy, let me clue you in.
+
+420
+00:29:01,657 --> 00:29:04,618
+There's only one fellow
+who can handle a job like that,
+
+421
+00:29:04,701 --> 00:29:07,829
+and, frankly,
+he don't like to be disturbed.
+
+422
+00:29:07,871 --> 00:29:09,539
+Where could I find him?
+
+423
+00:29:11,875 --> 00:29:14,211
+H-Hello?
+
+424
+00:29:16,004 --> 00:29:18,090
+Who dares enter my room?
+
+425
+00:29:18,173 --> 00:29:21,760
+Sorry! I-- I hope I'm not interrupting,
+but I'm told you're the one to talk to
+
+426
+00:29:21,843 --> 00:29:23,845
+about an ogre problem?
+
+427
+00:29:23,929 --> 00:29:25,931
+You are told correct.
+
+428
+00:29:25,973 --> 00:29:29,559
+But for this,
+I charge a great deal of money.
+
+429
+00:29:30,102 --> 00:29:32,437
+Would this be enough?
+
+430
+00:29:38,193 --> 00:29:44,032
+Hmm. You have engaged
+my valuable services, Your Majesty.
+
+431
+00:29:44,116 --> 00:29:47,369
+Just tell me where I can find this ogre.
+
+432
+00:30:05,846 --> 00:30:11,435
+♪ <i>Everyone says
+I'm getting down too low...</i> ♪
+
+433
+00:30:13,353 --> 00:30:18,984
+♪ <i>Everyone says
+"You just got to let it go"</i> ♪
+
+434
+00:30:20,277 --> 00:30:22,821
+♪ <i>You just got to let it go</i> ♪
+
+435
+00:30:32,372 --> 00:30:34,166
+♪ <i>I need some sleep</i> ♪
+
+436
+00:30:34,875 --> 00:30:38,128
+♪ <i>Time to put the old horse down</i> ♪
+
+437
+00:30:40,130 --> 00:30:41,798
+♪ <i>I'm in too deep</i> ♪
+
+438
+00:30:42,466 --> 00:30:45,677
+♪ <i>And the wheels keep spinning 'round</i> ♪
+
+439
+00:30:47,137 --> 00:30:50,098
+♪ <i>Everyone says</i> ♪
+
+440
+00:30:50,182 --> 00:30:52,851
+♪ <i>"You just got to let it go"</i> ♪
+
+441
+00:30:55,771 --> 00:31:00,275
+<i>Dear Knight, I pray that you take
+this favor as a token of my gratitude.</i>
+
+442
+00:31:22,714 --> 00:31:24,216
+<i>Dear diary,</i>
+
+443
+00:31:24,299 --> 00:31:26,885
+<i>Sleeping Beauty is having
+a slumber party tomorrow</i>
+
+444
+00:31:26,968 --> 00:31:28,512
+<i>but Dad says I can't go.</i>
+
+445
+00:31:28,595 --> 00:31:30,764
+<i>He never lets me out after sunset.</i>
+
+446
+00:31:31,556 --> 00:31:33,767
+<i>Dad says I'm going away for a while.</i>
+
+447
+00:31:33,850 --> 00:31:36,645
+<i>Must be like some finishing school
+or something.</i>
+
+448
+00:31:37,771 --> 00:31:39,731
+<i>Mom says that when I'm old enough,</i>
+
+449
+00:31:39,815 --> 00:31:42,526
+<i>my handsome Prince Charming
+will rescue me from my tower</i>
+
+450
+00:31:42,609 --> 00:31:44,236
+<i>and bring me back to my family.</i>
+
+451
+00:31:45,237 --> 00:31:47,781
+<i>And we'll all live happily ever after.</i>
+
+452
+00:31:50,158 --> 00:31:52,077
+<i>Mrs. Fiona Charming.</i>
+
+453
+00:31:53,578 --> 00:31:54,913
+<i>Mrs. Fiona Charming.</i>
+
+454
+00:31:55,747 --> 00:31:56,998
+<i>Mrs. Fiona Charming.</i>
+
+455
+00:31:57,082 --> 00:31:59,334
+<i>Mrs. Fiona Charming. Mrs. Fiona Charming.</i>
+
+456
+00:31:59,418 --> 00:32:02,379
+<i>Mrs. Fiona Charming. Mrs. Fiona Charming...</i>
+
+457
+00:32:02,462 --> 00:32:03,964
+<i>...Charming.</i>
+
+458
+00:32:09,052 --> 00:32:11,930
+S-Sorry. Uh, I--
+I hope I'm not interrupting anything.
+
+459
+00:32:12,013 --> 00:32:17,561
+No, no, no.
+I was just reading a, uh-- a scary book.
+
+460
+00:32:18,186 --> 00:32:22,732
+I was hoping you'd let me apologize
+for my despicable behavior earlier.
+
+461
+00:32:22,816 --> 00:32:25,569
+- Okay?
+- I don't know what came over me.
+
+462
+00:32:25,652 --> 00:32:28,822
+Do you suppose we could just pretend
+it never happened and start over?
+
+463
+00:32:28,905 --> 00:32:30,282
+Look, Your Majesty, I--
+
+464
+00:32:30,365 --> 00:32:31,783
+Please, call me Dad.
+
+465
+00:32:32,367 --> 00:32:36,496
+Dad, we both acted like ogres.
+
+466
+00:32:36,580 --> 00:32:39,749
+Maybe we just need some time
+to get to know each other?
+
+467
+00:32:39,833 --> 00:32:40,876
+Excellent idea.
+
+468
+00:32:40,959 --> 00:32:44,337
+I was actually hoping
+you might join me for a morning hunt.
+
+469
+00:32:44,421 --> 00:32:46,339
+Little father-son time?
+
+470
+00:32:48,175 --> 00:32:50,635
+I know it would mean the world to Fiona.
+
+471
+00:32:59,811 --> 00:33:03,106
+Shall we say, 7:30 by the old oak?
+
+472
+00:33:09,237 --> 00:33:11,114
+Face it, Donkey. We're lost.
+
+473
+00:33:11,198 --> 00:33:14,367
+We can't be lost.
+We followed the King's instructions exactly.
+
+474
+00:33:14,451 --> 00:33:16,786
+What did he say? "Head to the deepest,
+darkest part of the woods."
+
+475
+00:33:16,870 --> 00:33:18,455
+- Aye.
+- "Past the sinister trees
+
+476
+00:33:18,538 --> 00:33:20,415
+- with those scary-looking branches."
+- Check.
+
+477
+00:33:20,499 --> 00:33:22,375
+Yeah and there's that bush
+shaped like Shirley Bassey.
+
+478
+00:33:22,459 --> 00:33:24,961
+We passed that bush
+three times already!
+
+479
+00:33:25,045 --> 00:33:27,589
+You were the one who said you
+didn't want to stop and get directions.
+
+480
+00:33:27,672 --> 00:33:32,302
+Oh, great. My one chance
+to fix things up with Fiona's dad
+
+481
+00:33:32,385 --> 00:33:34,513
+and I end up lost in the woods with you!
+
+482
+00:33:34,596 --> 00:33:36,848
+You don't have to get all huffy with me,
+I'm only trying to help.
+
+483
+00:33:36,932 --> 00:33:39,017
+I know! I know.
+
+484
+00:33:41,436 --> 00:33:42,562
+I'm sorry, all right?
+
+485
+00:33:42,646 --> 00:33:44,606
+Hey, don't worry about it.
+
+486
+00:33:44,689 --> 00:33:47,943
+I just really need to make things
+work with this guy.
+
+487
+00:33:48,026 --> 00:33:50,403
+Yeah, sure.
+Now, let's go bond with Daddy.
+
+488
+00:33:58,828 --> 00:34:00,163
+Well, well, well, Donkey.
+
+489
+00:34:00,247 --> 00:34:03,875
+I know it was kind of a tender moment
+back there, but the purring?
+
+490
+00:34:03,959 --> 00:34:05,794
+Man, what are you talking about?
+I ain't purring.
+
+491
+00:34:05,877 --> 00:34:08,296
+Sure. What's next? A hug?
+
+492
+00:34:08,380 --> 00:34:10,173
+Hey, Shrek. Donkeys don't purr.
+
+493
+00:34:10,257 --> 00:34:11,716
+What you think I am, some kind of--
+
+494
+00:34:11,800 --> 00:34:14,886
+Ha-ha! Fear me. If you dare.
+
+495
+00:34:14,970 --> 00:34:17,097
+Hey, look. A little cat.
+
+496
+00:34:17,180 --> 00:34:20,642
+- Look out, Shrek! He got a piece!
+- It's a cat, Donkey.
+
+497
+00:34:20,725 --> 00:34:22,644
+Come here, little kitty kitty kitty.
+
+498
+00:34:22,727 --> 00:34:24,563
+Come on, little kitty.
+
+499
+00:34:24,646 --> 00:34:28,149
+Come here. Come here, little kitty.
+
+500
+00:34:30,860 --> 00:34:33,071
+- Hold on, Shrek! I'm coming!
+- Oh, come on! Oh!
+
+501
+00:34:33,154 --> 00:34:35,699
+Get it off! Oh, get it off!
+
+502
+00:34:38,368 --> 00:34:39,869
+No! Oh!
+
+503
+00:34:41,204 --> 00:34:43,582
+- Hold on, Shrek! Hold still!
+- Get it off!
+
+504
+00:34:43,665 --> 00:34:44,791
+Shrek, hold still!
+
+505
+00:34:47,127 --> 00:34:48,086
+Did I miss?
+
+506
+00:34:48,169 --> 00:34:51,089
+No, you got them.
+
+507
+00:34:54,384 --> 00:34:58,013
+Now, ye ogre, pray for mercy from...
+
+508
+00:34:59,431 --> 00:35:01,808
+Puss in Boots.
+
+509
+00:35:01,891 --> 00:35:04,269
+I'll kill that cat!
+
+510
+00:35:23,788 --> 00:35:25,540
+Hair ball.
+
+511
+00:35:25,624 --> 00:35:27,208
+Oh, that is nasty.
+
+512
+00:35:28,543 --> 00:35:30,253
+What do you reckon
+we should do with him?
+
+513
+00:35:30,337 --> 00:35:32,297
+I say we take the sword
+and neuter him right here.
+
+514
+00:35:32,380 --> 00:35:33,632
+Give him the Bob Barker treatment.
+
+515
+00:35:33,715 --> 00:35:35,175
+Oh, mother, no. <i>Por favor.</i>
+
+516
+00:35:35,258 --> 00:35:38,470
+Please, I implore you.
+It was nothing personal <i>señor</i>.
+
+517
+00:35:38,553 --> 00:35:41,222
+I was doing it only for my family.
+My mother, she's sick.
+
+518
+00:35:41,306 --> 00:35:43,725
+And my father lives off the garbage.
+
+519
+00:35:43,808 --> 00:35:46,811
+The King offered me much in gold
+and I have a litter of brothers--
+
+520
+00:35:46,895 --> 00:35:48,855
+Whoa, whoa, whoa, whoa, whoa.
+
+521
+00:35:48,938 --> 00:35:51,691
+Fiona's father paid you to do this?
+
+522
+00:35:51,775 --> 00:35:53,109
+The rich King? <i>Si.</i>
+
+523
+00:35:56,946 --> 00:36:00,116
+Well, so much for Dad's royal blessing.
+
+524
+00:36:00,200 --> 00:36:01,951
+Oh, come on, Shrek.
+Don't feel bad.
+
+525
+00:36:02,035 --> 00:36:04,037
+Almost everybody that meets you
+wants to kill you.
+
+526
+00:36:04,120 --> 00:36:05,246
+Gee, thanks.
+
+527
+00:36:08,583 --> 00:36:12,587
+Maybe Fiona would've been better off
+if I were some sort of Prince Charming.
+
+528
+00:36:12,671 --> 00:36:14,506
+Si! That's what the King said.
+
+529
+00:36:16,091 --> 00:36:19,260
+Oh, uh-- Sorry.
+I thought that question was directed at me.
+
+530
+00:36:20,595 --> 00:36:23,348
+Shrek, Fiona knows
+you'll do anything for her.
+
+531
+00:36:23,431 --> 00:36:26,142
+Well, it's not like I
+wouldn't change if I could.
+
+532
+00:36:27,185 --> 00:36:30,730
+I just--
+I just wish I could make her happy.
+
+533
+00:36:33,108 --> 00:36:34,275
+Hold the phone.
+
+534
+00:36:36,403 --> 00:36:37,487
+Happiness.
+
+535
+00:36:38,488 --> 00:36:40,699
+A tear drop away.
+
+536
+00:36:41,491 --> 00:36:45,036
+Donkey, think of the saddest thing
+that's ever happened to you.
+
+537
+00:36:45,120 --> 00:36:47,664
+Oh, man, where do I begin?
+
+538
+00:36:47,706 --> 00:36:50,750
+First, it was the time that old farmer
+tried to sell me for some magic beans.
+
+539
+00:36:50,834 --> 00:36:52,127
+I ain't never got over that.
+
+540
+00:36:52,210 --> 00:36:53,753
+Then this fool went off and had a party
+
+541
+00:36:53,837 --> 00:36:56,005
+and he have all the guests
+trying to pin a tail on me.
+
+542
+00:36:56,089 --> 00:36:58,591
+Then they all got drunk and started
+beating me with a stick going,
+
+543
+00:36:58,675 --> 00:37:00,135
+"Piñata! Piñata!"
+
+544
+00:37:00,218 --> 00:37:01,511
+What is a piñata, anyway?
+
+545
+00:37:01,594 --> 00:37:04,055
+No, Donkey! I need you to cry!
+
+546
+00:37:04,139 --> 00:37:05,765
+Yeah, well, don't go projecting on me.
+
+547
+00:37:05,849 --> 00:37:07,892
+I know you're feeling bad
+but you gotta let your own--
+
+548
+00:37:10,812 --> 00:37:13,231
+You little, hairy, litter-licking sack of...
+
+549
+00:37:20,697 --> 00:37:23,825
+<i>What? Is it on? Is it on?</i>
+
+550
+00:37:23,908 --> 00:37:25,660
+<i>This is Fairy Godmother.</i>
+
+551
+00:37:25,744 --> 00:37:28,079
+<i>I'm either away from my desk
+or with a client.</i>
+
+552
+00:37:28,163 --> 00:37:32,667
+<i>But if you come by the office,
+we'll be glad to make you a personal appointment.</i>
+
+553
+00:37:32,751 --> 00:37:34,335
+<i>Have a "happy ever after."</i>
+
+554
+00:37:36,963 --> 00:37:37,964
+Oh.
+
+555
+00:37:38,882 --> 00:37:41,009
+Are you up for a little quest, Donkey?
+
+556
+00:37:41,092 --> 00:37:42,302
+All right! That's more like it!
+
+557
+00:37:42,385 --> 00:37:44,721
+Shrek and Donkey,
+on another whirlwind adventure!
+
+558
+00:37:44,804 --> 00:37:47,140
+♪ <i>Ain't no stoppin' us now</i> ♪
+
+559
+00:37:47,223 --> 00:37:49,601
+- ♪ <i>Whoo! We're on the move!</i> ♪
+- Stop, Ogre!
+
+560
+00:37:49,684 --> 00:37:52,896
+- I have misjudged you.
+- Join the club. We've got jackets.
+
+561
+00:37:52,979 --> 00:37:56,983
+On my honor, I am obliged
+to accompany you until I have saved your life
+
+562
+00:37:57,066 --> 00:37:58,318
+as you have spared me mine.
+
+563
+00:37:58,401 --> 00:38:02,238
+I'm sorry, the position of annoying
+talking animal has already been taken.
+
+564
+00:38:02,322 --> 00:38:03,615
+Let's go, Shrek.
+
+565
+00:38:04,240 --> 00:38:05,074
+Shrek?
+
+566
+00:38:14,083 --> 00:38:17,462
+- Shrek!
+- Oh, come on, Donkey. Look at him
+
+567
+00:38:17,545 --> 00:38:19,506
+in his wee little boots.
+
+568
+00:38:19,589 --> 00:38:21,841
+You know, how many cats can wear boots?
+
+569
+00:38:21,925 --> 00:38:22,926
+Honestly?
+
+570
+00:38:23,009 --> 00:38:24,886
+- Aw, let's keep him.
+- Say what?
+
+571
+00:38:28,640 --> 00:38:30,433
+Aw, listen, he's purring.
+
+572
+00:38:30,517 --> 00:38:33,603
+- Oh, so now it's cute?
+- Aw, come on, Donkey. Lighten up.
+
+573
+00:38:33,686 --> 00:38:37,232
+Lighten up? Oh, I should lighten up?
+Look who's telling who to lighten up!
+
+574
+00:38:40,902 --> 00:38:41,903
+Shrek.
+
+575
+00:38:47,158 --> 00:38:48,159
+Shrek?
+
+576
+00:38:58,586 --> 00:39:01,381
+Well, they're both festive, aren't they?
+
+577
+00:39:01,464 --> 00:39:03,132
+What do you think, Harold?
+
+578
+00:39:03,216 --> 00:39:05,927
+Um, yes, yes. Fine. Fine.
+
+579
+00:39:07,595 --> 00:39:11,599
+Try to at least pretend you're interested
+in your daughter's wedding ball.
+
+580
+00:39:11,683 --> 00:39:13,977
+Honestly, Lillian,
+I don't think it really matters.
+
+581
+00:39:14,060 --> 00:39:16,271
+How do we know
+there's even going to be a ball?
+
+582
+00:39:16,354 --> 00:39:18,189
+Mom! Dad!
+
+583
+00:39:18,273 --> 00:39:21,985
+- Oh, hello, dear.
+- Um, what's that, Cedric? Right! Coming.
+
+584
+00:39:22,068 --> 00:39:24,737
+Mom, have you seen Shrek?
+
+585
+00:39:24,821 --> 00:39:27,615
+I haven't. You should ask your father.
+
+586
+00:39:27,699 --> 00:39:32,161
+Be sure and use small words, dear.
+He's a little slow this morning.
+
+587
+00:39:32,245 --> 00:39:35,123
+- Can I help you, Your Majesty?
+- Ah, yes! Um--
+
+588
+00:39:35,832 --> 00:39:38,626
+Hmm. Exquisite.
+What do you call this dish?
+
+589
+00:39:38,710 --> 00:39:41,796
+That would be the dog's breakfast,
+Your Majesty.
+
+590
+00:39:41,880 --> 00:39:44,382
+Ah, yes. Very good, then.
+
+591
+00:39:44,465 --> 00:39:46,634
+- Carry on, Cedric.
+- Dad?
+
+592
+00:39:46,718 --> 00:39:49,012
+- Dad? Have you seen Shrek?
+- Uh, no, I haven't, dear.
+
+593
+00:39:49,095 --> 00:39:53,725
+I-- I'm sure he just went off to look
+for a nice mud hole to cool down in.
+
+594
+00:39:53,808 --> 00:39:55,894
+You know,
+after your little spat last night.
+
+595
+00:39:55,977 --> 00:39:58,146
+Oh. You heard that, huh?
+
+596
+00:39:58,229 --> 00:39:59,689
+Darling, the whole kingdom heard you.
+
+597
+00:39:59,772 --> 00:40:04,777
+I mean, after all it is in his nature to be,
+well, a bit of a brute.
+
+598
+00:40:04,861 --> 00:40:08,656
+Him? You know, you didn't exactly
+roll out the Welcome Wagon.
+
+599
+00:40:08,740 --> 00:40:12,118
+Well, what did you expect?
+I mean, look at what he's done to you.
+
+600
+00:40:12,201 --> 00:40:15,204
+Shrek loves me for who I am.
+
+601
+00:40:16,247 --> 00:40:18,625
+I would think you'd be happy for me.
+
+602
+00:40:18,708 --> 00:40:22,253
+Darling, I'm just thinking
+about what's best for you.
+
+603
+00:40:22,337 --> 00:40:24,923
+Maybe you should do the same.
+
+604
+00:40:38,978 --> 00:40:41,189
+- No, really?
+- Mm-hmm.
+
+605
+00:40:43,316 --> 00:40:44,609
+Shh, shh, shh...
+
+606
+00:40:46,903 --> 00:40:48,071
+Whoa.
+
+607
+00:40:52,575 --> 00:40:55,995
+Oh, no. That's the old Keebler's place.
+Let's just back away slowly.
+
+608
+00:40:56,079 --> 00:40:57,830
+That's the Fairy Godmother's cottage.
+
+609
+00:40:57,914 --> 00:41:01,417
+She's the largest producer of hexes
+and potions in the whole kingdom.
+
+610
+00:41:01,501 --> 00:41:04,212
+Then why don't we pop in there
+for a spell?
+
+611
+00:41:04,295 --> 00:41:06,923
+Spell.
+
+612
+00:41:10,635 --> 00:41:12,053
+He makes me laugh.
+
+613
+00:41:14,097 --> 00:41:16,307
+Oh.
+
+614
+00:41:17,850 --> 00:41:19,811
+Hi. I'm here to see the--
+
+615
+00:41:19,894 --> 00:41:23,022
+The Fairy Godmother.
+I'm sorry. She is not in.
+
+616
+00:41:23,106 --> 00:41:26,025
+<i>Jerome! Coffee and a Monte Cristo. Now!</i>
+
+617
+00:41:27,443 --> 00:41:30,530
+Yes, Fairy Godmother.
+Right away.
+
+618
+00:41:30,613 --> 00:41:33,366
+Look, she's not seeing
+any client today, okay?
+
+619
+00:41:33,449 --> 00:41:35,618
+That's okay, buddy. We're from the union.
+
+620
+00:41:35,702 --> 00:41:36,703
+The union?
+
+621
+00:41:36,786 --> 00:41:41,165
+We represent the workers in all magical industries,
+both evil and benign.
+
+622
+00:41:41,249 --> 00:41:43,001
+Oh! Oh, right.
+
+623
+00:41:43,084 --> 00:41:46,129
+Are you feeling at all
+degraded or oppressed?
+
+624
+00:41:46,212 --> 00:41:48,131
+Uh, a little.
+
+625
+00:41:48,214 --> 00:41:49,882
+We-- We don't even have dental.
+
+626
+00:41:49,966 --> 00:41:51,467
+They don't even have dental.
+
+627
+00:41:52,135 --> 00:41:54,220
+Okay.
+We're just gonna have a look around.
+
+628
+00:41:54,303 --> 00:41:55,430
+Oh, by the way,
+
+629
+00:41:55,513 --> 00:41:58,808
+I think it'd be better if the Fairy Godmother
+didn't know we were here.
+
+630
+00:41:58,891 --> 00:42:02,145
+- Know what I'm saying? Huh? Huh?
+- Huh? Huh? Huh?
+
+631
+00:42:02,228 --> 00:42:05,148
+- Stop it.
+- Of course. Go right in.
+
+632
+00:42:34,552 --> 00:42:36,846
+A drop of desire.
+
+633
+00:42:37,555 --> 00:42:39,098
+Naughty.
+
+634
+00:42:40,433 --> 00:42:42,435
+A pinch of passion.
+
+635
+00:42:47,565 --> 00:42:51,611
+And just a hint of lust.
+
+636
+00:42:55,364 --> 00:42:56,991
+Excuse me.
+
+637
+00:42:57,075 --> 00:42:58,785
+Sorry to barge in like this but--
+
+638
+00:42:58,868 --> 00:43:01,496
+What in Grimm's name
+are you doing here?
+
+639
+00:43:01,579 --> 00:43:03,081
+Well...
+
+640
+00:43:03,164 --> 00:43:07,043
+...it seems that Fiona's not exactly happy.
+
+641
+00:43:08,669 --> 00:43:11,047
+And there's some question
+as to why that is?
+
+642
+00:43:12,048 --> 00:43:14,092
+Well, let's explore that, shall we?
+
+643
+00:43:16,469 --> 00:43:19,764
+Ah. P. P. P. P. Princess. Cinderella.
+
+644
+00:43:19,847 --> 00:43:21,933
+Here we are. "Lived happily ever after."
+
+645
+00:43:22,016 --> 00:43:23,309
+Oh!
+
+646
+00:43:23,392 --> 00:43:24,811
+No ogres.
+
+647
+00:43:24,894 --> 00:43:26,938
+Let's see. Snow White.
+
+648
+00:43:27,021 --> 00:43:30,650
+A handsome prince. Oh, no ogres.
+
+649
+00:43:30,733 --> 00:43:32,985
+Sleeping Beauty. Ooh, no ogres.
+
+650
+00:43:33,069 --> 00:43:36,197
+Hansel and Gretel? No.
+Thumbelina? No.
+
+651
+00:43:36,280 --> 00:43:39,242
+The Golden Bird,
+the Little Mermaid, Pretty Woman.
+
+652
+00:43:39,325 --> 00:43:42,245
+No, no, no, no, no!
+
+653
+00:43:42,328 --> 00:43:46,457
+You see,
+ogres don't live happily ever after.
+
+654
+00:43:46,541 --> 00:43:47,667
+All right, look, lady!
+
+655
+00:43:47,750 --> 00:43:51,879
+Don't you point those
+dirty green sausages at me!
+
+656
+00:43:53,339 --> 00:43:56,717
+Your Monte Cristo and coffee.
+Oh, sorry.
+
+657
+00:43:56,801 --> 00:44:00,513
+Ah! That's okay.
+We were just leaving.
+
+658
+00:44:01,305 --> 00:44:03,975
+Very sorry to have wasted your time,
+Miss Godmother.
+
+659
+00:44:04,058 --> 00:44:05,852
+Just go.
+
+660
+00:44:05,935 --> 00:44:07,186
+Come on, guys.
+
+661
+00:44:23,119 --> 00:44:24,871
+TGIF, eh, buddy?
+
+662
+00:44:27,206 --> 00:44:29,792
+Working hard or hardly working, eh, Mac?
+
+663
+00:44:37,925 --> 00:44:39,177
+Oh!
+
+664
+00:44:39,260 --> 00:44:42,013
+Hey, man. You wanna get your fine
+Corinthian footwear and your cat cheeks
+
+665
+00:44:42,096 --> 00:44:43,890
+out of my face? Man, that stinks!
+
+666
+00:44:43,973 --> 00:44:47,768
+Well, you don't exactly smell
+like a basket of roses.
+
+667
+00:44:50,938 --> 00:44:55,359
+- Well, one of these has got to help.
+- I was just concocting this very plan.
+
+668
+00:44:55,443 --> 00:44:58,029
+Already our minds are becoming one.
+
+669
+00:44:58,112 --> 00:44:59,822
+Whoa, whoa, whoa, there.
+
+670
+00:44:59,906 --> 00:45:03,034
+Listen, if we need an expert on licking ourselves,
+we'll give you a call.
+
+671
+00:45:03,117 --> 00:45:05,203
+Shrek, this is a bad idea.
+
+672
+00:45:05,286 --> 00:45:08,748
+Look. Make yourself useful
+and go keep watch.
+
+673
+00:45:08,831 --> 00:45:11,417
+Puss, do you think you
+could get to those on top?
+
+674
+00:45:11,500 --> 00:45:13,002
+<i>No problema,</i> boss.
+
+675
+00:45:13,085 --> 00:45:17,381
+In one of my nine lives I was the great
+cat burglar of Santiago de Compostela.
+
+676
+00:45:18,466 --> 00:45:20,134
+Shrek, are you off your nut?
+
+677
+00:45:20,218 --> 00:45:21,802
+Donkey, keep watch.
+
+678
+00:45:21,886 --> 00:45:23,721
+Keep watch?
+Yeah. I'm gonna keep watch.
+
+679
+00:45:23,804 --> 00:45:26,599
+I'll watch that wicked witch come down here
+and whammy zammy a world of hurt
+
+680
+00:45:26,682 --> 00:45:27,725
+all up your backside.
+
+681
+00:45:27,808 --> 00:45:30,686
+I'm gonna laugh too.
+If she do, I'm gonna be giggling to myself.
+
+682
+00:45:30,770 --> 00:45:33,564
+- What do you see?
+- Toadstool softener?
+
+683
+00:45:33,648 --> 00:45:36,317
+Oh, yeah, you're right.
+I'm sure a nice BM is the perfect solution
+
+684
+00:45:36,400 --> 00:45:37,693
+for marital problems.
+
+685
+00:45:37,777 --> 00:45:39,695
+- "Elfa Seltzer"?
+- Uh-uh.
+
+686
+00:45:39,779 --> 00:45:40,613
+"Hex Lax"?
+
+687
+00:45:40,696 --> 00:45:43,199
+No! Try "handsome".
+
+688
+00:45:44,533 --> 00:45:45,952
+Sorry. No handsome.
+
+689
+00:45:47,161 --> 00:45:49,997
+Hey! How about "Happily Ever After"?
+
+690
+00:45:50,081 --> 00:45:52,166
+Well, what does it do?
+
+691
+00:45:52,959 --> 00:45:55,628
+It says "Beauty Divine."
+
+692
+00:45:55,711 --> 00:45:59,048
+You know, in some cultures,
+donkeys are revered as the wisest of creatures.
+
+693
+00:45:59,131 --> 00:46:00,716
+Especially us talking ones.
+
+694
+00:46:01,467 --> 00:46:02,802
+Donkey!
+
+695
+00:46:04,804 --> 00:46:06,389
+That'll have to do.
+We've got company.
+
+696
+00:46:13,938 --> 00:46:15,189
+Can we get on with this?
+
+697
+00:46:16,315 --> 00:46:19,318
+Hurry!
+
+698
+00:46:26,993 --> 00:46:28,661
+Whoa!
+
+699
+00:46:28,744 --> 00:46:30,162
+Nice catch, Donkey!
+
+700
+00:46:30,246 --> 00:46:32,540
+Finally! A good use for your mouth.
+
+701
+00:46:36,919 --> 00:46:37,920
+Come on!
+
+702
+00:46:44,093 --> 00:46:46,679
+♪ <i>You spurn my natural emotions</i> ♪
+
+703
+00:46:46,762 --> 00:46:50,099
+♪ <i>You make me feel like dirt
+And I'm hurt...</i> ♪
+
+704
+00:46:54,895 --> 00:46:57,273
+♪ <i>And if I start a commotion</i> ♪
+
+705
+00:46:57,356 --> 00:47:01,277
+♪ <i>I run the risk of losing you
+And that's worse...</i> ♪
+
+706
+00:47:04,822 --> 00:47:07,450
+♪ <i>Ever fallen in love with someone</i> ♪
+
+707
+00:47:07,533 --> 00:47:11,037
+♪ <i>Ever fallen in love
+In love with someone, ever fallen in</i> ♪
+
+708
+00:47:11,120 --> 00:47:14,290
+♪ <i>In love with someone
+You shouldn't've fallen in love with...</i> ♪
+
+709
+00:47:21,005 --> 00:47:23,215
+♪ <i>Ever fallen in love with someone</i> ♪
+
+710
+00:47:23,299 --> 00:47:27,136
+♪ <i>Ever fallen in love
+In love with someone, ever fallen in...</i> ♪
+
+711
+00:47:31,307 --> 00:47:32,850
+♪ <i>Fallen in love with...</i> ♪
+
+712
+00:47:34,435 --> 00:47:39,398
+♪ <i>Ever fallen in love with someone
+You shouldn't've fallen in love with</i> ♪
+
+713
+00:47:39,482 --> 00:47:43,694
+Look, I don't care whose fault it is.
+Just get this place cleaned up!
+
+714
+00:47:43,778 --> 00:47:44,779
+Yes, Godmother.
+
+715
+00:47:44,862 --> 00:47:49,367
+And somebody bring me something
+deep fried and smothered in chocolate.
+
+716
+00:47:50,368 --> 00:47:51,494
+Mother!
+
+717
+00:47:51,577 --> 00:47:53,954
+Charming. Sweetheart.
+
+718
+00:47:54,038 --> 00:47:57,124
+Oh, this isn't a good time, pumpkin.
+Mama's working.
+
+719
+00:47:57,208 --> 00:47:58,834
+Whoa. What happened here?
+
+720
+00:47:58,918 --> 00:48:00,795
+The ogre, that's what.
+
+721
+00:48:00,878 --> 00:48:02,505
+What? Where is he, Mom?
+
+722
+00:48:02,588 --> 00:48:05,549
+I shall rend his head from his shoulders.
+
+723
+00:48:05,633 --> 00:48:07,927
+I will smite him where he stands.
+
+724
+00:48:08,010 --> 00:48:12,014
+He will rue the very day he stole
+my kingdom from me!
+
+725
+00:48:12,848 --> 00:48:16,060
+Oh, put it away, junior!
+You're still gonna be king.
+
+726
+00:48:16,685 --> 00:48:19,355
+We're just gonna have to come up
+with something smarter. That's all.
+
+727
+00:48:19,438 --> 00:48:21,065
+<i>Pardon?</i> Um--
+
+728
+00:48:21,148 --> 00:48:25,528
+Everything is accounted for,
+Fairy Godmother, except for one potion.
+
+729
+00:48:25,611 --> 00:48:26,612
+What?
+
+730
+00:48:27,905 --> 00:48:28,989
+Oh.
+
+731
+00:48:29,698 --> 00:48:32,535
+I do believe we can make
+this work to our advantage.
+
+732
+00:48:34,412 --> 00:48:38,165
+"Happily Ever After Potion.
+Maximum strength.
+
+733
+00:48:38,249 --> 00:48:40,876
+For you and your true love.
+
+734
+00:48:40,960 --> 00:48:43,879
+If one of you drinks this,
+you both will be fine.
+
+735
+00:48:43,963 --> 00:48:46,549
+Happiness, comfort and beauty divine."
+
+736
+00:48:46,632 --> 00:48:50,302
+- You both will be fine?
+- I guess it means it'll affect Fiona too.
+
+737
+00:48:51,345 --> 00:48:55,015
+Hey, man. This don't feel right.
+My donkey senses are tingling all over.
+
+738
+00:48:55,099 --> 00:48:58,060
+So why don't you just drop that jug o' voodoo
+and let's get out of here?
+
+739
+00:48:58,144 --> 00:49:01,355
+It says, "Beauty Divine."
+How bad can it be?
+
+740
+00:49:03,315 --> 00:49:06,777
+Aha, see, you're allergic to that stuff.
+You're gonna have a reaction.
+
+741
+00:49:06,861 --> 00:49:09,947
+And if you think that I'm gonna be
+smearing Vapor Rub all over your chest,
+
+742
+00:49:10,030 --> 00:49:11,115
+think again!
+
+743
+00:49:11,198 --> 00:49:14,368
+Boss, just in case there is something
+wrong with the potion,
+
+744
+00:49:14,452 --> 00:49:16,370
+allow me to take the first sip.
+
+745
+00:49:16,454 --> 00:49:19,290
+It would be an honor to lay
+my life on the line for you.
+
+746
+00:49:19,373 --> 00:49:21,000
+Oh, no, no, no, no.
+
+747
+00:49:21,083 --> 00:49:24,712
+I don't think so. If there's gonna be
+any animal testing, I'm gonna do it.
+
+748
+00:49:24,795 --> 00:49:27,798
+That's the best friend's job.
+Now give me that bottle.
+
+749
+00:49:33,137 --> 00:49:34,889
+How do you feel?
+
+750
+00:49:35,848 --> 00:49:39,185
+I don't feel any different.
+I look any different?
+
+751
+00:49:39,268 --> 00:49:40,853
+You still look like an ass to me.
+
+752
+00:49:42,146 --> 00:49:44,148
+Maybe it doesn't work on donkeys.
+
+753
+00:49:45,774 --> 00:49:48,903
+Well, here's to us, Fiona.
+
+754
+00:49:48,986 --> 00:49:52,239
+Shrek, you drink that,
+there's no going back.
+
+755
+00:49:52,323 --> 00:49:53,199
+I know.
+
+756
+00:49:53,282 --> 00:49:55,451
+- But no more wallowing in the mud?
+- I know.
+
+757
+00:49:55,534 --> 00:49:57,077
+- And no more itchy butt crack?
+- I know!
+
+758
+00:49:57,161 --> 00:49:59,163
+- But you love being an ogre!
+- I know!
+
+759
+00:50:03,209 --> 00:50:04,543
+But I love Fiona more.
+
+760
+00:50:06,545 --> 00:50:08,255
+Shrek, no! Wait!
+
+761
+00:50:21,060 --> 00:50:22,603
+Whoo, cold. Got to be.
+
+762
+00:50:22,686 --> 00:50:25,648
+Shrek I think you grabbed
+the "Farty Ever After" potion.
+
+763
+00:50:25,731 --> 00:50:26,732
+Maybe it's a dud.
+
+764
+00:50:28,025 --> 00:50:30,277
+Or maybe Fiona and I
+were never meant to be.
+
+765
+00:50:34,615 --> 00:50:37,743
+Uh-oh. What did I tell you?
+I think I feel something coming on.
+
+766
+00:50:37,826 --> 00:50:40,412
+I don't want to die.
+I don't want to die.
+
+767
+00:50:40,496 --> 00:50:41,705
+I don't want to die!
+
+768
+00:50:41,789 --> 00:50:44,542
+Oh, sweet sister, mother of mercy.
+I'm melting!
+
+769
+00:50:44,625 --> 00:50:46,710
+I'm melting!
+
+770
+00:50:46,794 --> 00:50:48,712
+It's just the rain, Donkey.
+
+771
+00:50:50,339 --> 00:50:52,007
+Oh.
+
+772
+00:51:33,674 --> 00:51:37,011
+Oh, Shrek, don't worry.
+Things just seem bad because it's dark and rainy,
+
+773
+00:51:37,094 --> 00:51:39,471
+and Fiona's father hired
+a sleazy hit man to whack you.
+
+774
+00:51:40,514 --> 00:51:42,933
+It'll be better in the morning.
+You'll see.
+
+775
+00:51:43,601 --> 00:51:46,228
+♪ <i>The sun will come out</i> ♪
+
+776
+00:51:47,146 --> 00:51:48,772
+♪ <i>Tomorrow</i> ♪
+
+777
+00:51:49,648 --> 00:51:51,358
+♪ <i>Bet your bottom...</i> ♪
+
+778
+00:51:51,442 --> 00:51:53,235
+"Bet my bottom?"
+
+779
+00:51:53,319 --> 00:51:55,112
+I'm coming, Elizabeth!
+
+780
+00:51:55,195 --> 00:51:58,365
+Donkey? Are-- Are you all right?
+
+781
+00:51:58,449 --> 00:52:01,493
+Hey, boss. Let's shave him.
+
+782
+00:52:01,577 --> 00:52:03,037
+Don-- Donkey...
+
+783
+00:52:12,004 --> 00:52:14,465
+There you are!
+We missed you at dinner.
+
+784
+00:52:15,591 --> 00:52:17,009
+What is it, darling?
+
+785
+00:52:17,092 --> 00:52:20,512
+Dad, I've been thinking
+about what you said.
+
+786
+00:52:22,181 --> 00:52:24,016
+And I'm gonna set things right.
+
+787
+00:52:24,099 --> 00:52:26,602
+Ah, excellent! That's my girl.
+
+788
+00:52:26,685 --> 00:52:28,646
+It was a mistake to bring Shrek here.
+
+789
+00:52:29,730 --> 00:52:31,315
+I'm gonna go out and find him.
+
+790
+00:52:32,483 --> 00:52:35,361
+And then we're gonna go back
+to the swamp where we belong.
+
+791
+00:52:38,864 --> 00:52:40,324
+Fiona, please!
+
+792
+00:52:40,407 --> 00:52:44,078
+Uh, let's not be rash, darling.
+You can't go anywhere right now.
+
+793
+00:52:46,580 --> 00:52:47,581
+- Fiona!
+- Fiona!
+
+794
+00:53:27,663 --> 00:53:29,289
+Look, I told you he was here.
+
+795
+00:53:29,373 --> 00:53:32,751
+Look at him! Shh!
+Quiet. Look at him.
+
+796
+00:53:35,087 --> 00:53:36,547
+Good morning, sleepyhead.
+
+797
+00:53:37,840 --> 00:53:39,258
+- Good morning.
+- Good morning.
+
+798
+00:53:39,299 --> 00:53:40,426
+We love your kitty.
+
+799
+00:53:40,509 --> 00:53:42,344
+My head.
+
+800
+00:53:42,428 --> 00:53:45,889
+- Here, I fetched you a pail of water.
+- Thanks.
+
+801
+00:53:51,311 --> 00:53:52,354
+Whoa.
+
+802
+00:53:54,273 --> 00:53:56,275
+A cute button nose?
+
+803
+00:53:56,942 --> 00:53:58,944
+Thick, wavy locks?
+
+804
+00:53:59,695 --> 00:54:01,989
+Taut, round buttocks?
+
+805
+00:54:02,656 --> 00:54:04,408
+I'm-- I'm--
+
+806
+00:54:04,491 --> 00:54:05,826
+- Gorgeous.
+- I'll say.
+
+807
+00:54:05,909 --> 00:54:07,286
+I'm Jill. What's your name?
+
+808
+00:54:07,369 --> 00:54:08,620
+Um, Shrek.
+
+809
+00:54:08,704 --> 00:54:12,040
+- Shrek? Wow. Are you from Europe?
+- Uh--
+
+810
+00:54:12,124 --> 00:54:13,917
+- You're so tense.
+- I want to rub his shoulders.
+
+811
+00:54:14,001 --> 00:54:16,253
+- I got it covered, thanks.
+- I don't have anything to rub.
+
+812
+00:54:16,336 --> 00:54:17,921
+Well, get in line.
+
+813
+00:54:18,005 --> 00:54:19,965
+Have-- Have you ladies seen my donkey?
+
+814
+00:54:20,048 --> 00:54:21,425
+Who are you calling Donkey?
+
+815
+00:54:23,302 --> 00:54:26,430
+- Donkey? You're a--
+- A stallion, baby!
+
+816
+00:54:26,472 --> 00:54:28,265
+I can whinny.
+
+817
+00:54:28,348 --> 00:54:29,349
+I can count.
+
+818
+00:54:30,267 --> 00:54:33,103
+Look at me, Shrek. I'm trotting.
+
+819
+00:54:33,854 --> 00:54:36,774
+That's some quality potion.
+What's in that stuff?
+
+820
+00:54:36,857 --> 00:54:40,110
+"Oh, don't take the potion, Mr. Boss.
+It's very bad."
+
+821
+00:54:41,278 --> 00:54:43,280
+"Warning: Side effects may include
+
+822
+00:54:43,363 --> 00:54:45,824
+burning, itching, oozing, weeping.
+
+823
+00:54:45,908 --> 00:54:49,495
+Not intended for heart patients
+or those with nervous disorders."
+
+824
+00:54:49,578 --> 00:54:52,664
+♪ <i>I'm trotting, I'm trotting
+I'm trotting in place! Yeah!</i> ♪
+
+825
+00:54:54,958 --> 00:54:55,793
+What?
+
+826
+00:54:55,876 --> 00:54:59,087
+<i>Señor</i>, "To make the effects
+of this potion permanent,
+
+827
+00:54:59,171 --> 00:55:03,258
+the drinker must obtain
+his true love's kiss by midnight."
+
+828
+00:55:03,342 --> 00:55:06,094
+Midnight?
+Why is it always midnight?
+
+829
+00:55:06,178 --> 00:55:08,639
+- Pick me! I'll be your true love!
+- I'll be your true love.
+
+830
+00:55:08,722 --> 00:55:10,849
+I'll be true... enough.
+
+831
+00:55:10,933 --> 00:55:14,645
+Look, ladies,
+I already have a true love.
+
+832
+00:55:14,728 --> 00:55:15,854
+Aw.
+
+833
+00:55:15,938 --> 00:55:20,067
+And take it from me, Boss.
+You are going to have one satisfied Princess.
+
+834
+00:55:20,150 --> 00:55:23,362
+And let's face it,
+you are a lot easier on the eyes,
+
+835
+00:55:23,445 --> 00:55:25,864
+but inside you're still
+the same old mean, salty...
+
+836
+00:55:25,948 --> 00:55:27,950
+- Easy. All right.
+- ...cantankerous, stanky, foul,
+
+837
+00:55:28,033 --> 00:55:29,827
+angry ogre you always been.
+
+838
+00:55:29,910 --> 00:55:32,079
+And you're still the same annoying donkey.
+
+839
+00:55:32,162 --> 00:55:33,080
+Yeah.
+
+840
+00:55:35,499 --> 00:55:36,375
+Well,
+
+841
+00:55:37,084 --> 00:55:40,212
+look out, Princess.
+Here comes the new me.
+
+842
+00:55:41,713 --> 00:55:44,341
+Uh, first things first.
+We need to get you out of those clothes.
+
+843
+00:55:49,221 --> 00:55:50,639
+- Ready?
+- Ready.
+
+844
+00:55:54,935 --> 00:55:56,812
+Driver, stop!
+
+845
+00:55:56,895 --> 00:56:00,023
+Oh, God! Help me, please!
+My racing days are over!
+
+846
+00:56:00,107 --> 00:56:03,610
+I'm blind! Tell the truth.
+Will I ever be able to play the violin again?
+
+847
+00:56:03,694 --> 00:56:07,698
+Oh, you poor creature.
+Is there anything I can do for you?
+
+848
+00:56:08,448 --> 00:56:10,242
+Well, I guess there is one thing.
+
+849
+00:56:10,325 --> 00:56:13,036
+Take off the powdered wig
+and step away from your drawers.
+
+850
+00:56:17,374 --> 00:56:19,376
+- Not bad.
+- Not bad at all.
+
+851
+00:56:27,426 --> 00:56:30,470
+Father?
+Is everything all right, Father?
+
+852
+00:56:35,976 --> 00:56:39,897
+Thank you, gentlemen.
+Someday, I will repay you.
+
+853
+00:56:39,980 --> 00:56:42,983
+Unless, of course,
+I can't find you or if I forget.
+
+854
+00:56:50,991 --> 00:56:52,200
+♪ <i>Oh, yeah</i> ♪
+
+855
+00:57:00,542 --> 00:57:02,294
+♪ <i>Ch-ch-ch-ch-changes</i> ♪
+
+856
+00:57:02,377 --> 00:57:06,798
+- ♪ <i>Turn and face the strange</i> ♪
+- ♪ <i>Ch-ch-changes</i> ♪
+
+857
+00:57:06,882 --> 00:57:10,010
+♪ <i>Don't want to be a richer one</i> ♪
+
+858
+00:57:10,093 --> 00:57:12,387
+♪ <i>Ch-ch-ch-ch-changes...</i> ♪
+
+859
+00:57:16,391 --> 00:57:19,311
+♪ <i>Just gonna have to be a different man</i> ♪
+
+860
+00:57:19,394 --> 00:57:21,730
+♪ <i>Time may change me</i> ♪
+
+861
+00:57:22,314 --> 00:57:24,942
+♪ <i>But I can't trace time</i> ♪
+
+862
+00:57:27,235 --> 00:57:28,403
+Halt!
+
+863
+00:57:28,487 --> 00:57:32,449
+Tell Princess Fiona her husband,
+Sir Shrek, is here to see her.
+
+864
+00:57:36,745 --> 00:57:40,248
+♪ <i>Still don't know
+What I was looking for...</i> ♪
+
+865
+00:57:45,420 --> 00:57:48,507
+♪ <i>Every time I thought I'd got it made</i> ♪
+
+866
+00:57:48,590 --> 00:57:51,885
+♪ <i>It seemed the taste was not so sweet...</i> ♪
+
+867
+00:57:54,096 --> 00:57:54,972
+Fiona!
+
+868
+00:57:55,055 --> 00:57:56,056
+Shrek?
+
+869
+00:57:59,810 --> 00:58:00,811
+Shrek!
+
+870
+00:58:06,191 --> 00:58:07,025
+Fiona.
+
+871
+00:58:10,612 --> 00:58:12,322
+Hello, handsome.
+
+872
+00:58:14,157 --> 00:58:14,992
+Shrek!
+
+873
+00:58:15,742 --> 00:58:17,536
+Princess!
+
+874
+00:58:17,619 --> 00:58:20,372
+- Donkey?
+- Wow! That potion worked on you, too, huh?
+
+875
+00:58:20,455 --> 00:58:23,333
+- W-What potion?
+- It's kind of a long story,
+
+876
+00:58:23,417 --> 00:58:28,005
+but Shrek and I took some magic potion,
+and, well, now, we're sexy!
+
+877
+00:58:29,840 --> 00:58:31,758
+Shrek?
+
+878
+00:58:34,636 --> 00:58:37,305
+For you, baby, I could be.
+
+879
+00:58:37,389 --> 00:58:39,766
+- Yeah, you wish.
+- Donkey, where is Shrek?
+
+880
+00:58:39,850 --> 00:58:41,518
+He just went inside looking for you.
+
+881
+00:58:43,979 --> 00:58:45,188
+Shrek!
+
+882
+00:58:45,897 --> 00:58:47,149
+Fiona!
+
+883
+00:58:47,232 --> 00:58:48,775
+Fiona!
+
+884
+00:58:50,444 --> 00:58:52,279
+You wanna dance, pretty boy?
+
+885
+00:58:55,449 --> 00:58:59,077
+Are you going so soon?
+Don't you want to see your wife?
+
+886
+00:59:00,495 --> 00:59:01,705
+Fiona.
+
+887
+00:59:03,957 --> 00:59:05,125
+Shrek?
+
+888
+00:59:05,208 --> 00:59:08,045
+Aye, Fiona. It is me.
+
+889
+00:59:08,128 --> 00:59:09,796
+What happened to your voice?
+
+890
+00:59:09,880 --> 00:59:13,300
+Uh, the potion changed
+a lot of things, Fiona,
+
+891
+00:59:14,301 --> 00:59:16,303
+but not the way I feel about you.
+
+892
+00:59:16,803 --> 00:59:17,804
+Fiona?
+
+893
+00:59:19,264 --> 00:59:22,642
+- Charming?
+- Uh, do you think so?
+
+894
+00:59:22,726 --> 00:59:25,896
+Dad, I was so hoping you'd approve.
+
+895
+00:59:25,979 --> 00:59:27,773
+Um, who are you?
+
+896
+00:59:27,856 --> 00:59:29,733
+Mom, it's me, Shrek.
+
+897
+00:59:29,816 --> 00:59:33,403
+I know you never get a second chance
+at a first impression
+
+898
+00:59:33,487 --> 00:59:35,655
+but, well, what do you think?
+
+899
+00:59:40,077 --> 00:59:42,537
+Fiona! Fiona!
+
+900
+00:59:43,205 --> 00:59:44,247
+Fiona!
+
+901
+00:59:44,331 --> 00:59:45,999
+Fiona!
+
+902
+00:59:46,583 --> 00:59:48,919
+- Fiona!
+- "Fiona! Fiona!"
+
+903
+00:59:49,002 --> 00:59:51,296
+Oh, shoot!
+
+904
+00:59:51,379 --> 00:59:53,715
+I don't think they can hear us, pigeon.
+
+905
+00:59:56,551 --> 00:59:59,930
+Don't you think you've already
+messed her life up enough?
+
+906
+01:00:00,514 --> 01:00:02,682
+I just wanted her to be happy.
+
+907
+01:00:02,766 --> 01:00:04,518
+And now she can be.
+
+908
+01:00:05,185 --> 01:00:07,479
+Oh, sweetheart.
+
+909
+01:00:07,562 --> 01:00:11,024
+She's finally found
+the prince of her dreams.
+
+910
+01:00:11,108 --> 01:00:12,317
+But look at me.
+
+911
+01:00:13,318 --> 01:00:15,153
+Look what I've done for her.
+
+912
+01:00:15,237 --> 01:00:18,615
+It's time you stop living
+in a fairy tale, Shrek.
+
+913
+01:00:18,698 --> 01:00:22,744
+She's a princess, and you're an ogre.
+
+914
+01:00:23,370 --> 01:00:26,790
+That's something no amount of potion
+is ever going to change.
+
+915
+01:00:34,589 --> 01:00:35,590
+But...
+
+916
+01:00:36,341 --> 01:00:37,759
+I love her.
+
+917
+01:00:37,843 --> 01:00:39,594
+If you really love her,
+
+918
+01:00:40,887 --> 01:00:42,639
+you'll let her go.
+
+919
+01:00:47,894 --> 01:00:50,021
+- Shrek?
+- <i>Señor.</i>
+
+920
+01:00:50,105 --> 01:00:52,858
+Hey, what's going on?
+Where you going?
+
+921
+01:00:59,322 --> 01:01:03,243
+You wouldn't have had anything
+to do with this, would you, Harold?
+
+922
+01:01:08,999 --> 01:01:11,793
+♪ <i>People just ain't no good</i> ♪
+
+923
+01:01:14,588 --> 01:01:18,216
+♪ <i>I think that's well understood...</i> ♪
+
+924
+01:01:18,300 --> 01:01:19,885
+There you go, boys.
+
+925
+01:01:19,968 --> 01:01:21,761
+Just leave the bottle, Doris.
+
+926
+01:01:21,845 --> 01:01:24,181
+Hey, why the long face?
+
+927
+01:01:25,473 --> 01:01:27,809
+It was all just a stupid mistake.
+
+928
+01:01:28,977 --> 01:01:32,564
+I never should have rescued her
+from that tower in the first place.
+
+929
+01:01:35,066 --> 01:01:36,735
+I hate Mondays.
+
+930
+01:01:36,818 --> 01:01:40,572
+I can't believe you're gonna walk away
+from the best thing that happened to you.
+
+931
+01:01:40,614 --> 01:01:42,282
+What choice do I have?
+
+932
+01:01:42,365 --> 01:01:45,785
+She loves that pretty boy,
+Prince Charming.
+
+933
+01:01:45,869 --> 01:01:48,079
+Oh, come on now.
+Is he really that good-looking?
+
+934
+01:01:48,163 --> 01:01:50,457
+Are you kidding?
+He's gorgeous.
+
+935
+01:01:50,540 --> 01:01:53,627
+He has a face that looks like
+it was carved by angels.
+
+936
+01:01:53,710 --> 01:01:55,795
+Mmm. He sounds dreamy.
+
+937
+01:01:55,879 --> 01:01:59,716
+You know, shockingly,
+this isn't making me feel any better.
+
+938
+01:02:02,761 --> 01:02:05,764
+Look, guys, it's for the best.
+
+939
+01:02:06,640 --> 01:02:10,435
+Mom and Dad approve,
+and Fiona gets the man she's always dreamed of.
+
+940
+01:02:11,519 --> 01:02:12,771
+Everybody wins.
+
+941
+01:02:14,439 --> 01:02:15,649
+Except for you.
+
+942
+01:02:16,233 --> 01:02:19,027
+I don't get it, Shrek.
+You love Fiona.
+
+943
+01:02:19,527 --> 01:02:20,528
+Aye.
+
+944
+01:02:21,655 --> 01:02:23,740
+And that's why I have to let her go.
+
+945
+01:02:23,823 --> 01:02:25,825
+Um-- Excuse me...
+
+946
+01:02:26,534 --> 01:02:28,036
+is-- is she here?
+
+947
+01:02:28,119 --> 01:02:30,121
+She's, uh, in the back.
+
+948
+01:02:31,456 --> 01:02:33,375
+Oh, hello again.
+
+949
+01:02:37,254 --> 01:02:39,589
+Uh, Fairy Godmother. Charming.
+
+950
+01:02:39,673 --> 01:02:43,718
+You better have a good reason
+for dragging us down here, Harold.
+
+951
+01:02:43,802 --> 01:02:49,391
+Well, uh-- I'm afraid Fiona isn't really
+warming up to Prince Charming.
+
+952
+01:02:49,474 --> 01:02:51,851
+Um, FYI, not my fault.
+
+953
+01:02:51,935 --> 01:02:53,603
+No, no, of course it's not, dear.
+
+954
+01:02:53,687 --> 01:02:57,899
+I mean, how charming can I be when I
+have to pretend I'm that dreadful ogre?
+
+955
+01:02:57,983 --> 01:02:59,651
+No! No, it's nobody's fault.
+
+956
+01:02:59,734 --> 01:03:03,405
+Um, perhaps it's best
+if we just call the whole thing off. Okay?
+
+957
+01:03:03,488 --> 01:03:04,406
+What?
+
+958
+01:03:04,489 --> 01:03:07,367
+You can't force someone to fall in love.
+
+959
+01:03:07,450 --> 01:03:09,202
+I beg to differ.
+
+960
+01:03:09,286 --> 01:03:11,121
+I do it all the time.
+
+961
+01:03:11,204 --> 01:03:14,291
+Have Fiona drink this,
+and she'll fall in love
+
+962
+01:03:14,374 --> 01:03:17,627
+with the first man she kisses,
+which will be Charming.
+
+963
+01:03:18,962 --> 01:03:21,798
+- Uh-- No.
+- What did you say?
+
+964
+01:03:21,881 --> 01:03:24,426
+I-- I can't. I-- I won't do it.
+
+965
+01:03:24,467 --> 01:03:26,011
+Oh, yes, you will.
+
+966
+01:03:26,052 --> 01:03:29,597
+If you remember,
+I helped you with your happily ever after,
+
+967
+01:03:29,681 --> 01:03:33,226
+and I can take it away just as easily.
+
+968
+01:03:33,310 --> 01:03:35,395
+Is that what you want?
+
+969
+01:03:35,478 --> 01:03:36,479
+Is it?
+
+970
+01:03:36,563 --> 01:03:40,025
+- N-- No.
+- Good boy.
+
+971
+01:03:40,108 --> 01:03:43,987
+Now, we have to go.
+I need to do Charming's hair before the ball.
+
+972
+01:03:44,070 --> 01:03:46,656
+He's hopeless.
+You know, he's all high in the front.
+
+973
+01:03:46,740 --> 01:03:49,576
+He can never get to the back.
+You always need someone to do the back.
+
+974
+01:03:49,659 --> 01:03:52,203
+- Oh, thank you, Mother.
+- Mother?
+
+975
+01:03:53,246 --> 01:03:56,249
+Uh, Mary! A talking horse!
+
+976
+01:03:56,333 --> 01:03:57,375
+The ogre!
+
+977
+01:03:59,252 --> 01:04:00,420
+Stop them!
+
+978
+01:04:00,503 --> 01:04:02,172
+Thieves! Bandits!
+
+979
+01:04:02,255 --> 01:04:03,798
+Stop them!
+
+980
+01:04:04,883 --> 01:04:08,011
+Well, the abs are fab
+and it's gluteus to the Maximus
+
+981
+01:04:08,094 --> 01:04:11,639
+here at tonight's
+Far, Far Away Royal Ball Blowout!
+
+982
+01:04:11,723 --> 01:04:14,517
+The coaches are lined up
+as the cream of the crop pours out of them
+
+983
+01:04:14,601 --> 01:04:16,478
+like Miss Muffet's curds and whey.
+
+984
+01:04:16,561 --> 01:04:20,732
+Everyone who's anyone has turned out
+to honor Princess Fiona and Prince Shrek.
+
+985
+01:04:20,815 --> 01:04:24,152
+And, oh, my, the outfits look gorgeous!
+
+986
+01:04:24,235 --> 01:04:25,445
+Look! Hansel and Gretel!
+
+987
+01:04:25,528 --> 01:04:28,281
+What the heck are the crumbs for?
+
+988
+01:04:28,365 --> 01:04:31,326
+And right behind them,
+Tom Thumb and Thumbelina!
+
+989
+01:04:31,409 --> 01:04:32,827
+Oh, aren't they adorable?
+
+990
+01:04:32,911 --> 01:04:34,079
+Whoa!
+
+991
+01:04:34,162 --> 01:04:37,374
+Here comes Sleeping Beauty! Oh!
+
+992
+01:04:37,457 --> 01:04:39,209
+Tired old thing.
+
+993
+01:04:39,292 --> 01:04:42,837
+Who's this? Who's this? Who is this?
+
+994
+01:04:42,921 --> 01:04:46,257
+Oh! It's the one, it's the only,
+
+995
+01:04:46,341 --> 01:04:48,927
+it's the Fairy Godmother!
+
+996
+01:04:49,010 --> 01:04:53,390
+Hello, Far, Far Away!
+
+997
+01:04:53,473 --> 01:04:55,225
+Can I get a, "Whoop, whoop"?
+
+998
+01:04:55,308 --> 01:04:56,768
+Whoop, whoop!
+
+999
+01:04:56,851 --> 01:05:00,313
+May all your endings be happy and--
+
+1000
+01:05:00,397 --> 01:05:02,357
+Well, you know the rest!
+
+1001
+01:05:03,441 --> 01:05:06,611
+<i>We'll be right back
+with the Royal Far, Far A way Ball</i>
+
+1002
+01:05:06,694 --> 01:05:07,779
+<i>after these messages.</i>
+
+1003
+01:05:07,862 --> 01:05:10,156
+I hate these ball shows.
+
+1004
+01:05:10,240 --> 01:05:13,326
+They bore me to tears.
+Flip over to <i>Wheel of Torture</i>.
+
+1005
+01:05:13,410 --> 01:05:16,996
+I'm not flipping anywhere, sir,
+until I see Shrek and Fiona.
+
+1006
+01:05:17,622 --> 01:05:19,833
+Ah, whizzes on you guys.
+
+1007
+01:05:19,916 --> 01:05:22,001
+Hey, mice, pass me a buffalo wing!
+
+1008
+01:05:22,085 --> 01:05:24,254
+No, no, to your left. Your left!
+
+1009
+01:05:27,340 --> 01:05:30,510
+- <i>Tonight on</i> Knights<i>...</i>
+- Ah! Now here's a good show!
+
+1010
+01:05:30,593 --> 01:05:34,055
+<i>We got a white bronco heading east
+into the forest. Requesting backup.</i>
+
+1011
+01:05:34,139 --> 01:05:36,766
+<i>It's time for the men in steel
+to teach these madcap mammals</i>
+
+1012
+01:05:36,850 --> 01:05:38,935
+<i>their "devil may mare" attitudes
+just won't fly.</i>
+
+1013
+01:05:39,018 --> 01:05:41,271
+<i>All right, all right! Let me go!</i>
+
+1014
+01:05:41,354 --> 01:05:44,065
+<i>Why you grabbing me? Ow!
+Police brutality! Police brutality!</i>
+
+1015
+01:05:44,149 --> 01:05:45,400
+<i>Come on!</i>
+
+1016
+01:05:45,483 --> 01:05:48,278
+<i>- I have to talk to Princess Fiona!
+- We warned you.</i>
+
+1017
+01:05:48,361 --> 01:05:49,487
+<i>Ow! Ow!</i>
+
+1018
+01:05:49,571 --> 01:05:52,407
+<i>Will they get away with it
+or did someone let the cat out of the bag?</i>
+
+1019
+01:05:52,490 --> 01:05:55,326
+<i>You, capitalist pig dogs!</i>
+
+1020
+01:05:55,994 --> 01:05:58,329
+<i>Get it off!</i>
+
+1021
+01:05:59,414 --> 01:06:01,207
+<i>- Catnip.
+- That's, uh, not mine.</i>
+
+1022
+01:06:01,249 --> 01:06:02,667
+<i>Hold on, all right?</i>
+
+1023
+01:06:02,750 --> 01:06:05,170
+<i>- Find Princess Fiona!
+- Come on, guy.</i>
+
+1024
+01:06:05,253 --> 01:06:06,254
+<i>I'm a donkey!</i>
+
+1025
+01:06:06,337 --> 01:06:08,506
+<i>Tell her Shrek-- I'm her husband, Shrek!</i>
+
+1026
+01:06:08,590 --> 01:06:10,049
+- <i>Ow, ow!</i>
+- Knights.
+
+1027
+01:06:10,133 --> 01:06:11,551
+Quick! Rewind it!
+
+1028
+01:06:12,635 --> 01:06:15,180
+<i>Shrek-- I'm her husband, Shrek! Ow, ow!</i>
+
+1029
+01:06:43,124 --> 01:06:43,958
+Darling?
+
+1030
+01:06:45,084 --> 01:06:47,253
+Ah, I thought I might find you here.
+
+1031
+01:06:47,337 --> 01:06:50,381
+How about a nice,
+hot cup of tea before the ball?
+
+1032
+01:06:51,966 --> 01:06:53,009
+I'm not going.
+
+1033
+01:06:53,092 --> 01:06:56,638
+B-B-But the-- the whole Kingdom's
+turned out to celebrate your marriage.
+
+1034
+01:06:56,721 --> 01:06:58,556
+There's just one problem.
+
+1035
+01:06:58,640 --> 01:07:00,308
+That's not my husband.
+
+1036
+01:07:01,684 --> 01:07:03,019
+I mean, look at him.
+
+1037
+01:07:05,522 --> 01:07:10,235
+Yes, he is a bit different, but, uh,
+people change for the ones they love.
+
+1038
+01:07:10,318 --> 01:07:13,446
+You'd be surprised how much
+I changed for your mother.
+
+1039
+01:07:13,530 --> 01:07:14,656
+Change?
+
+1040
+01:07:15,365 --> 01:07:17,575
+He's completely lost his mind.
+
+1041
+01:07:17,659 --> 01:07:20,787
+Darling, why not come down to the ball
+and give him another chance?
+
+1042
+01:07:20,870 --> 01:07:24,165
+I mean, you might find
+you like this new Shrek.
+
+1043
+01:07:24,249 --> 01:07:26,918
+But it's the old one
+I fell in love with, Dad.
+
+1044
+01:07:28,127 --> 01:07:30,588
+I'd give anything to have him back.
+
+1045
+01:07:33,841 --> 01:07:37,011
+Uh, darling, that's mine. Decaf.
+
+1046
+01:07:37,095 --> 01:07:38,888
+Otherwise I'm up all night.
+
+1047
+01:07:45,144 --> 01:07:46,771
+Mmm. Thanks.
+
+1048
+01:07:49,857 --> 01:07:54,362
+I got to get out of here!
+You can't lock us up like this! Let me go!
+
+1049
+01:07:54,445 --> 01:07:55,738
+What about my Miranda rights?
+
+1050
+01:07:55,822 --> 01:07:58,616
+You're supposed to say
+I have the right to remain silent.
+
+1051
+01:07:58,700 --> 01:08:00,326
+Nobody said I have
+the right to remain silent!
+
+1052
+01:08:00,410 --> 01:08:03,830
+Donkey, you have
+the right to remain silent.
+
+1053
+01:08:03,913 --> 01:08:06,207
+What you lack is the capacity.
+
+1054
+01:08:06,291 --> 01:08:09,711
+I must hold on before I, too,
+go totally mad.
+
+1055
+01:08:10,211 --> 01:08:12,130
+Shrek? Donkey?
+
+1056
+01:08:13,339 --> 01:08:14,674
+Too late.
+
+1057
+01:08:14,757 --> 01:08:17,760
+Gingy! Pinocchio! Get us out of here.
+
+1058
+01:08:18,469 --> 01:08:19,304
+Oh!
+
+1059
+01:08:22,724 --> 01:08:25,393
+Fire in the hole!
+
+1060
+01:08:44,579 --> 01:08:45,705
+Look out below!
+
+1061
+01:08:48,166 --> 01:08:50,001
+Quick, tell a lie.
+
+1062
+01:08:50,084 --> 01:08:52,837
+- Well, uh, what should I say?
+- Anything, but quick!
+
+1063
+01:08:52,920 --> 01:08:55,048
+Say something crazy like,
+"I'm wearing ladies' underwear."
+
+1064
+01:08:55,131 --> 01:08:58,134
+I'm-- I am wearing ladies' underwear.
+
+1065
+01:09:01,179 --> 01:09:03,014
+Are you?
+
+1066
+01:09:03,097 --> 01:09:05,058
+I most certainly am not!
+
+1067
+01:09:05,725 --> 01:09:07,810
+It looks like you most certainly am are.
+
+1068
+01:09:07,894 --> 01:09:09,479
+- I am not!
+- What kind?
+
+1069
+01:09:09,562 --> 01:09:11,064
+- It's a thong!
+- Ow!
+
+1070
+01:09:11,147 --> 01:09:12,398
+They're briefs.
+
+1071
+01:09:12,482 --> 01:09:13,858
+- Are not.
+- Are too.
+
+1072
+01:09:13,941 --> 01:09:15,401
+- Are not!
+- Are too!
+
+1073
+01:09:15,485 --> 01:09:17,612
+Here we go. Hang tight.
+
+1074
+01:09:21,407 --> 01:09:23,868
+Hey, wait, wait, wait! Ow, ow!
+Hey, hey, hey!
+
+1075
+01:09:23,951 --> 01:09:25,119
+Ow!
+
+1076
+01:09:27,914 --> 01:09:30,041
+- Excuse me?
+- What? Puss!
+
+1077
+01:09:30,124 --> 01:09:32,251
+- Mm-hmm?
+- Pardon me, would you mind letting me go?
+
+1078
+01:09:32,335 --> 01:09:33,378
+Sorry, boss.
+
+1079
+01:09:33,461 --> 01:09:36,172
+Quit messing around.
+We've got to stop that kiss!
+
+1080
+01:09:36,255 --> 01:09:38,091
+I thought you was going to let her go.
+
+1081
+01:09:38,174 --> 01:09:40,468
+I was,
+but I can't let them do this to Fiona.
+
+1082
+01:09:40,551 --> 01:09:43,763
+Boom! That's what I like to hear.
+Look who's finally coming around.
+
+1083
+01:09:43,846 --> 01:09:45,598
+But that's impossible.
+We'll never get in.
+
+1084
+01:09:45,682 --> 01:09:48,142
+The castle is guarded
+and there is a moat and everything!
+
+1085
+01:09:50,019 --> 01:09:54,607
+Well, folks, it looks like we're up
+chocolate creek without a Popsicle stick.
+
+1086
+01:09:59,195 --> 01:10:00,530
+What?
+
+1087
+01:10:00,613 --> 01:10:02,198
+Do you still know the Muffin Man?
+
+1088
+01:10:02,824 --> 01:10:06,285
+Well, sure. He's down on Drury Lane.
+Why?
+
+1089
+01:10:06,369 --> 01:10:08,371
+Because we're gonna need flour.
+
+1090
+01:10:09,163 --> 01:10:11,332
+Lots and lots of flour.
+
+1091
+01:10:15,420 --> 01:10:16,713
+Gingy!
+
+1092
+01:10:16,796 --> 01:10:21,175
+Fire up the ovens, Muffin Man.
+We've got a big order to fill.
+
+1093
+01:10:25,346 --> 01:10:27,598
+It's alive!
+
+1094
+01:10:30,601 --> 01:10:32,186
+Whoa.
+
+1095
+01:10:36,816 --> 01:10:39,235
+Run, run, run as fast you can!
+
+1096
+01:10:46,409 --> 01:10:48,494
+Go, baby, go!
+
+1097
+01:10:50,288 --> 01:10:52,999
+There it is, Mongo. To the castle.
+
+1098
+01:10:53,082 --> 01:10:56,753
+No, no, no, you great stupid pastry!
+
+1099
+01:10:56,836 --> 01:10:57,795
+Come on!
+
+1100
+01:11:05,303 --> 01:11:07,889
+- Mongo, down here. Look at the pony.
+- Ooh.
+
+1101
+01:11:07,972 --> 01:11:09,474
+Oh!
+
+1102
+01:11:09,557 --> 01:11:11,976
+That's right, follow the pretty pony.
+
+1103
+01:11:12,059 --> 01:11:14,771
+Pretty pony wants to play at the castle.
+
+1104
+01:11:14,854 --> 01:11:16,022
+Pretty pony.
+
+1105
+01:11:18,191 --> 01:11:22,028
+Ladies and gentlemen,
+presenting Princess Fiona
+
+1106
+01:11:22,111 --> 01:11:25,323
+and her new husband, Prince Shrek.
+
+1107
+01:11:27,158 --> 01:11:29,285
+Shrek, what are you doing?
+
+1108
+01:11:29,368 --> 01:11:31,871
+I'm just playing the part, Fiona.
+
+1109
+01:11:32,705 --> 01:11:34,582
+Is that glitter on your lips?
+
+1110
+01:11:34,665 --> 01:11:37,585
+Mmm. Cherry flavored. Want to taste?
+
+1111
+01:11:37,668 --> 01:11:39,879
+Ugh! What is with you?
+
+1112
+01:11:39,962 --> 01:11:41,380
+But, Muffin Cake...
+
+1113
+01:11:44,717 --> 01:11:46,469
+C Minor, put it in C Minor.
+
+1114
+01:11:47,762 --> 01:11:49,263
+Ladies and gentlemen.
+
+1115
+01:11:51,808 --> 01:11:54,727
+I'd like to dedicate this song to
+
+1116
+01:11:54,811 --> 01:11:58,856
+Princess Fiona and Prince Shrek.
+
+1117
+01:11:59,440 --> 01:12:01,025
+Fiona, my princess.
+
+1118
+01:12:01,108 --> 01:12:04,320
+Will you honor me with a dance?
+
+1119
+01:12:04,403 --> 01:12:08,783
+♪ <i>Where have all the good men gone</i> ♪
+
+1120
+01:12:08,866 --> 01:12:11,202
+♪ <i>And where are all the gods...</i> ♪
+
+1121
+01:12:11,285 --> 01:12:12,578
+Dance! Dance!
+
+1122
+01:12:12,662 --> 01:12:16,874
+♪ <i>Where's the streetwise Hercules</i> ♪
+
+1123
+01:12:16,958 --> 01:12:20,419
+♪ <i>To fight the rising odds...</i> ♪
+
+1124
+01:12:23,422 --> 01:12:25,174
+Since when do you dance?
+
+1125
+01:12:25,258 --> 01:12:28,094
+Fiona, my dearest.
+If there's one thing I know,
+
+1126
+01:12:28,177 --> 01:12:31,430
+it's that love is full of surprises.
+
+1127
+01:12:31,514 --> 01:12:34,183
+♪ <i>Late at night I toss and I turn</i> ♪
+
+1128
+01:12:34,267 --> 01:12:40,147
+♪ <i>And I dream of what I need...</i> ♪
+
+1129
+01:12:41,649 --> 01:12:42,650
+Hit it!
+
+1130
+01:12:43,359 --> 01:12:45,862
+♪ <i>Oh, oh</i> ♪
+
+1131
+01:12:45,945 --> 01:12:47,280
+♪ <i>I need a hero...</i> ♪
+
+1132
+01:12:47,947 --> 01:12:51,409
+All right, big fellow!
+Let's crash this party!
+
+1133
+01:12:52,869 --> 01:12:54,579
+Man the catapults!
+
+1134
+01:12:55,621 --> 01:12:57,540
+Ready! Fire!
+
+1135
+01:12:58,541 --> 01:13:00,126
+Brace yourselves!
+
+1136
+01:13:00,209 --> 01:13:01,711
+Ooh, purty.
+
+1137
+01:13:09,010 --> 01:13:11,220
+Not the gumdrop button!
+
+1138
+01:13:17,852 --> 01:13:19,437
+Incoming!
+
+1139
+01:13:20,646 --> 01:13:22,148
+All right!
+
+1140
+01:13:25,151 --> 01:13:30,865
+♪ <i>Somewhere after midnight
+In my wildest fantasy...</i> ♪
+
+1141
+01:13:30,948 --> 01:13:32,533
+Go, Mongo! Go!
+
+1142
+01:13:34,911 --> 01:13:37,413
+Man the cauldrons!
+
+1143
+01:13:37,997 --> 01:13:43,210
+♪ <i>Racing on the thunder
+And rising with the heat</i> ♪
+
+1144
+01:13:43,294 --> 01:13:45,546
+After you, Mongo.
+
+1145
+01:13:48,424 --> 01:13:50,635
+That's it. Heave!
+
+1146
+01:13:50,718 --> 01:13:52,845
+- Foam!
+- Watch out!
+
+1147
+01:13:55,097 --> 01:13:56,474
+Shrek!
+
+1148
+01:13:58,267 --> 01:14:02,063
+More heat, less foam!
+
+1149
+01:14:02,146 --> 01:14:04,941
+♪ <i>Up where the mountains
+Meet the heavens above</i> ♪
+
+1150
+01:14:05,024 --> 01:14:08,277
+♪ <i>Out where the lightning splits the sea</i> ♪
+
+1151
+01:14:08,361 --> 01:14:11,989
+♪ <i>I could swear there is someone
+Somewhere watching me...</i> ♪
+
+1152
+01:14:12,073 --> 01:14:14,158
+Heave!
+
+1153
+01:14:14,825 --> 01:14:16,577
+Foam!
+
+1154
+01:14:21,999 --> 01:14:26,420
+No!
+
+1155
+01:14:53,739 --> 01:14:55,282
+Come on!
+
+1156
+01:14:55,366 --> 01:14:57,660
+No, no!
+
+1157
+01:14:57,743 --> 01:15:00,329
+Be good.
+
+1158
+01:15:02,415 --> 01:15:05,167
+He needs me! Let me go!
+
+1159
+01:15:05,251 --> 01:15:07,003
+♪ <i>I need a hero</i> ♪
+
+1160
+01:15:08,713 --> 01:15:09,588
+Donkey.
+
+1161
+01:15:19,640 --> 01:15:21,017
+Puss!
+
+1162
+01:15:24,061 --> 01:15:26,522
+Go, go! Your lady needs you. Go!
+
+1163
+01:15:29,692 --> 01:15:31,777
+Today, I repay my debt.
+
+1164
+01:15:37,324 --> 01:15:39,410
+Aw.
+
+1165
+01:15:40,202 --> 01:15:42,163
+<i>En garde!</i>
+
+1166
+01:15:46,000 --> 01:15:48,753
+♪ <i>He's gotta be strong
+And he's gotta be fast</i> ♪
+
+1167
+01:15:48,836 --> 01:15:51,839
+♪ <i>And he's gotta be fresh from the fight</i> ♪
+
+1168
+01:15:52,423 --> 01:15:54,383
+- ♪ <i>I need a hero</i> ♪
+- Stop!
+
+1169
+01:15:59,930 --> 01:16:01,015
+Hey, you.
+
+1170
+01:16:01,682 --> 01:16:04,435
+- Back away from my wife.
+- Shrek?
+
+1171
+01:16:05,269 --> 01:16:09,857
+You couldn't just go back to your swamp
+and leave well enough alone.
+
+1172
+01:16:09,940 --> 01:16:12,151
+- Now!
+- Pigs <i>und</i> blanket!
+
+1173
+01:16:14,945 --> 01:16:16,489
+Pinocchio, get the wand!
+
+1174
+01:16:16,572 --> 01:16:18,324
+I see London. I see France.
+
+1175
+01:16:22,119 --> 01:16:24,246
+I'm a real boy!
+
+1176
+01:16:31,587 --> 01:16:32,630
+<i>Ja!</i>
+
+1177
+01:16:33,756 --> 01:16:34,840
+Catch!
+
+1178
+01:16:35,758 --> 01:16:38,135
+Donkey!
+
+1179
+01:16:39,845 --> 01:16:42,515
+I'm a real boy.
+
+1180
+01:16:45,810 --> 01:16:47,228
+Ha!
+
+1181
+01:16:47,311 --> 01:16:49,688
+That's mine! That's mine!
+
+1182
+01:16:53,359 --> 01:16:54,860
+Pray for mercy, from Puss...
+
+1183
+01:16:54,944 --> 01:16:56,695
+And Donkey!
+
+1184
+01:16:56,779 --> 01:16:59,490
+She's taken the potion!
+Kiss her now!
+
+1185
+01:17:02,910 --> 01:17:04,078
+No!
+
+1186
+01:17:21,804 --> 01:17:22,638
+Hi-yah!
+
+1187
+01:17:26,267 --> 01:17:28,269
+- Fiona.
+- Shrek.
+
+1188
+01:17:28,352 --> 01:17:32,106
+Harold, you were supposed
+to give her the potion!
+
+1189
+01:17:32,189 --> 01:17:36,193
+Well, I guess I gave her the wrong tea.
+
+1190
+01:17:36,277 --> 01:17:38,195
+- Mommy!
+- Mommy?
+
+1191
+01:17:39,363 --> 01:17:46,370
+I told you,
+ogres don't live happily ever after.
+
+1192
+01:17:48,122 --> 01:17:48,956
+Harold!
+
+1193
+01:17:49,039 --> 01:17:51,625
+- Shrek!
+- No!
+
+1194
+01:17:56,463 --> 01:17:57,464
+Ooh!
+
+1195
+01:17:57,965 --> 01:17:58,966
+Ha!
+
+1196
+01:18:05,639 --> 01:18:08,601
+Oh...
+
+1197
+01:18:10,477 --> 01:18:11,520
+Dad.
+
+1198
+01:18:12,021 --> 01:18:13,314
+Daddy...
+
+1199
+01:18:15,691 --> 01:18:17,568
+- Is he...
+- Yup.
+
+1200
+01:18:19,570 --> 01:18:20,696
+He croaked.
+
+1201
+01:18:22,948 --> 01:18:24,158
+Harold?
+
+1202
+01:18:24,241 --> 01:18:26,327
+Dad?
+
+1203
+01:18:26,410 --> 01:18:30,331
+- I'd hoped you'd never see me like this.
+- Man, and he gave you a hard time!
+
+1204
+01:18:30,414 --> 01:18:33,876
+- Donkey!
+- No, no, he's right. I'm sorry...
+
+1205
+01:18:34,418 --> 01:18:35,544
+...to both of you.
+
+1206
+01:18:35,628 --> 01:18:38,297
+I only wanted what was best for Fiona.
+
+1207
+01:18:39,423 --> 01:18:40,841
+But I can see now
+
+1208
+01:18:41,800 --> 01:18:43,135
+she already has it.
+
+1209
+01:18:44,303 --> 01:18:45,804
+Shrek, Fiona,
+
+1210
+01:18:46,972 --> 01:18:50,601
+will you accept an old frog's apologies
+
+1211
+01:18:51,477 --> 01:18:52,853
+and my blessing?
+
+1212
+01:18:54,355 --> 01:18:56,774
+- Harold...
+- I'm sorry, Lillian.
+
+1213
+01:18:56,857 --> 01:19:00,194
+I just wish I could be
+the man you deserve.
+
+1214
+01:19:01,654 --> 01:19:05,449
+You're more that man today
+than you ever were,
+
+1215
+01:19:05,532 --> 01:19:06,659
+warts and all.
+
+1216
+01:19:10,079 --> 01:19:12,998
+Boss, the Happily Ever After Potion!
+
+1217
+01:19:13,082 --> 01:19:14,166
+Midnight!
+
+1218
+01:19:15,292 --> 01:19:18,045
+Fiona, is this what you want?
+
+1219
+01:19:19,255 --> 01:19:22,216
+- To be this way forever?
+- What?
+
+1220
+01:19:22,299 --> 01:19:23,801
+'Cause if you kiss me now,
+
+1221
+01:19:24,969 --> 01:19:26,470
+we can stay like this.
+
+1222
+01:19:26,553 --> 01:19:28,973
+You'd do that?
+
+1223
+01:19:29,974 --> 01:19:31,850
+- For me?
+- Yes.
+
+1224
+01:19:40,734 --> 01:19:42,903
+I want what any princess wants,
+
+1225
+01:19:43,737 --> 01:19:45,948
+to live happily ever after...
+
+1226
+01:19:50,452 --> 01:19:52,955
+...with the ogre I married.
+
+1227
+01:19:55,874 --> 01:19:59,086
+Whatever happens, I must not cry.
+
+1228
+01:19:59,169 --> 01:20:01,005
+You cannot make me cry.
+
+1229
+01:20:25,154 --> 01:20:26,739
+No. No.
+
+1230
+01:20:26,822 --> 01:20:28,115
+No, no. No!
+
+1231
+01:20:28,198 --> 01:20:29,450
+Ow!
+
+1232
+01:20:30,159 --> 01:20:31,493
+No. No!
+
+1233
+01:20:33,037 --> 01:20:34,455
+Oh, no.
+
+1234
+01:20:45,007 --> 01:20:46,675
+Ugh.
+
+1235
+01:20:51,430 --> 01:20:55,267
+Hey, you still look
+like a noble steed to me.
+
+1236
+01:20:58,604 --> 01:21:02,524
+Now, where were we?
+
+1237
+01:21:02,608 --> 01:21:04,610
+Ooh! I remember.
+
+1238
+01:21:11,784 --> 01:21:12,785
+Hey!
+
+1239
+01:21:12,868 --> 01:21:15,704
+Isn't we supposed to be having a fiesta?
+
+1240
+01:21:15,788 --> 01:21:17,373
+<i>Uno, dos, cuatro,</i> hit it!
+
+1241
+01:21:24,630 --> 01:21:26,090
+Puss and Donkey, y'all...
+
+1242
+01:21:26,173 --> 01:21:29,176
+♪ <i>She's into superstitions</i> ♪
+
+1243
+01:21:29,259 --> 01:21:31,261
+♪ <i>Black cats and voodoo dolls</i> ♪
+
+1244
+01:21:31,345 --> 01:21:34,640
+- Sing it, Puss!
+- ♪ <i>I feel a premonition</i> ♪
+
+1245
+01:21:34,723 --> 01:21:36,892
+♪ <i>That girl's gonna make me fall</i> ♪
+
+1246
+01:21:38,894 --> 01:21:39,978
+Here we go!
+
+1247
+01:21:40,062 --> 01:21:42,731
+♪ <i>She's into new sensations</i> ♪
+
+1248
+01:21:42,815 --> 01:21:45,192
+♪ <i>New kicks in the candlelight</i> ♪
+
+1249
+01:21:45,275 --> 01:21:48,237
+♪ <i>She's got a new addiction</i> ♪
+
+1250
+01:21:48,320 --> 01:21:50,531
+♪ <i>For every day and night</i> ♪
+
+1251
+01:21:50,614 --> 01:21:55,744
+♪ <i>She'll make you take your clothes off
+And go dancing in the rain</i> ♪
+
+1252
+01:21:55,828 --> 01:22:00,874
+♪ <i>She'll make you live her crazy life
+But she'll take away your pain</i> ♪
+
+1253
+01:22:00,958 --> 01:22:04,002
+♪ <i>Like a bullet to your brain</i> ♪
+
+1254
+01:22:04,086 --> 01:22:08,924
+♪ <i>Upside, inside out
+She's livin' la vida loca...</i> ♪
+
+1255
+01:22:10,426 --> 01:22:11,593
+Hey, gorgeous!
+
+1256
+01:22:12,094 --> 01:22:14,721
+♪ <i>Livin' la vida loca</i> ♪
+
+1257
+01:22:14,805 --> 01:22:19,601
+♪ <i>Her lips are devil red
+And her skin's the color mocha</i> ♪
+
+1258
+01:22:19,685 --> 01:22:22,896
+- What she do?
+- ♪ <i>She will wear you out</i> ♪
+
+1259
+01:22:22,980 --> 01:22:24,690
+♪ <i>Livin' la vida loca</i> ♪
+
+1260
+01:22:24,773 --> 01:22:27,025
+- She living it <i>loca</i>!
+- ♪ <i>Livin' la vida loca</i> ♪
+
+1261
+01:22:27,109 --> 01:22:30,779
+- Sing it one more time now!
+- ♪ <i>She's livin' la vida loca</i> ♪
+
+1262
+01:22:35,742 --> 01:22:38,328
+Ow! Ay, Donkey, that's Spanish!
+
+1263
+01:22:38,412 --> 01:22:39,496
+Break it down!
+
+1264
+01:22:39,997 --> 01:22:44,168
+♪ <i>She'll push and pull you down
+Livin' la vida loca</i> ♪
+
+1265
+01:22:44,251 --> 01:22:49,339
+♪ <i>She will wear you out
+Livin' la vida loca</i> ♪
+
+1266
+01:22:49,882 --> 01:22:52,259
+♪ <i>Livin' la vida loca</i> ♪
+
+1267
+01:22:52,342 --> 01:22:57,681
+♪ <i>She'll push and pull you down
+Livin' la vida loca</i> ♪
+
+1268
+01:22:57,764 --> 01:23:03,103
+♪ <i>Her lips are devil red
+And her skin's the color mocha</i> ♪
+
+1269
+01:23:03,187 --> 01:23:06,440
+♪ <i>She will wear you out</i> ♪
+
+1270
+01:23:06,523 --> 01:23:08,692
+♪ <i>Livin' la vida loca</i> ♪
+
+1271
+01:23:08,775 --> 01:23:11,361
+♪ <i>Livin' la vida loca</i> ♪
+
+1272
+01:23:11,445 --> 01:23:13,989
+- ♪ <i>Livin' la vida loca</i> ♪
+- Sing it one more time, now!
+
+1273
+01:23:14,072 --> 01:23:16,700
+♪ <i>Livin' la vida loca</i> ♪
+
+1274
+01:23:25,292 --> 01:23:29,755
+♪ <i>Where have all the good men gone?
+And where are all the gods?</i> ♪
+
+1275
+01:23:29,838 --> 01:23:34,259
+♪ <i>Where's the street-wise Hercules
+To fight the rising odds?</i> ♪
+
+1276
+01:23:34,968 --> 01:23:39,056
+♪ <i>Isn't there a white knight
+Upon a fiery steed?</i> ♪
+
+1277
+01:23:39,765 --> 01:23:43,727
+♪ <i>Late at night I toss and turn
+And dream of what I need</i> ♪
+
+1278
+01:23:43,810 --> 01:23:45,562
+♪ <i>I need a hero</i> ♪
+
+1279
+01:23:45,646 --> 01:23:48,649
+♪ <i>I'm holding out for a hero
+'Til the morning light</i> ♪
+
+1280
+01:23:48,732 --> 01:23:51,026
+♪ <i>He's gotta be sure
+And it's gotta be soon</i> ♪
+
+1281
+01:23:51,109 --> 01:23:54,905
+- ♪ <i>And he's gotta be larger than life</i> ♪
+- ♪ <i>Larger than life</i> ♪
+
+1282
+01:23:58,784 --> 01:24:03,163
+♪ <i>Somewhere after midnight
+In my wildest fantasy</i> ♪
+
+1283
+01:24:03,247 --> 01:24:07,793
+♪ <i>Somewhere just beyond my reach
+There's someone reaching back for me</i> ♪
+
+1284
+01:24:08,544 --> 01:24:12,381
+♪ <i>Racing on the thunder
+Rising with the heat</i> ♪
+
+1285
+01:24:13,173 --> 01:24:17,344
+♪ <i>It's gonna take a superman
+To sweep me off my feet</i> ♪
+
+1286
+01:24:17,427 --> 01:24:19,137
+♪ <i>I need a hero</i> ♪
+
+1287
+01:24:19,221 --> 01:24:22,224
+♪ <i>I'm holding out for a hero
+'Til the morning light</i> ♪
+
+1288
+01:24:22,307 --> 01:24:24,726
+♪ <i>He's gotta be sure
+And it's gotta be soon</i> ♪
+
+1289
+01:24:24,810 --> 01:24:28,689
+- ♪ <i>And he's gotta be larger than life</i> ♪
+- ♪ <i>Larger than life</i> ♪
+
+1290
+01:24:33,193 --> 01:24:36,446
+♪ <i>All by myself</i> ♪
+
+1291
+01:24:37,072 --> 01:24:38,323
+♪ <i>Don't wanna be</i> ♪
+
+1292
+01:24:38,407 --> 01:24:42,744
+♪ <i>All by myself anymore</i> ♪
+
+1293
+01:24:42,828 --> 01:24:46,790
+Amigo, we are off to the Kit-Kat Club.
+Come on, join us.
+
+1294
+01:24:46,873 --> 01:24:50,419
+Oh, thanks, <i>compadre</i>.
+I'm-- I'm just not in the mood.
+
+1295
+01:24:50,502 --> 01:24:54,631
+We will cheer you up.
+Find you a nice, uh, <i>burro</i>.
+
+1296
+01:24:56,717 --> 01:24:58,135
+Hey, baby!
+
+1297
+01:24:58,218 --> 01:24:59,219
+Whoo!
+
+1298
+01:24:59,303 --> 01:25:02,889
+Hey, that's my girl! Yeah! All right!
+
+1299
+01:25:03,724 --> 01:25:04,891
+Baby, where you been?
+
+1300
+01:25:06,184 --> 01:25:10,188
+I'm sorry too. I should have stayed,
+but Shrek had this thing he had to do...
+
+1301
+01:25:10,272 --> 01:25:11,732
+What? Say that one more time.
+
+1302
+01:25:11,815 --> 01:25:13,900
+What you talking about? Are you serious?
+
+1303
+01:25:25,454 --> 01:25:27,456
+Look at our little mutant babies!
+
+1304
+01:25:30,459 --> 01:25:31,752
+I got to get a job.
+
+1305
+01:25:37,549 --> 01:25:40,302
+♪ <i>I'm strange and you're strange</i> ♪
+
+1306
+01:25:40,969 --> 01:25:43,555
+♪ <i>Don't want you to change</i> ♪
+
+1307
+01:25:43,639 --> 01:25:46,350
+♪ <i>No way</i> ♪
+
+1308
+01:25:46,433 --> 01:25:49,478
+♪ <i>Ah ha ha ah</i> ♪
+
+1309
+01:25:51,104 --> 01:25:53,940
+♪ <i>Why can't I explain?</i> ♪
+
+1310
+01:25:54,024 --> 01:25:56,902
+♪ <i>Flying to the sun without a plane</i> ♪
+
+1311
+01:25:56,985 --> 01:26:00,030
+♪ <i>When you're here</i> ♪
+
+1312
+01:26:00,113 --> 01:26:03,116
+♪ <i>Ah ha ha ah</i> ♪
+
+1313
+01:26:03,992 --> 01:26:10,666
+♪ <i>And don't you worry 'bout me, babe</i> ♪
+
+1314
+01:26:10,749 --> 01:26:17,756
+♪ <i>'Cause I'm right here for you to say</i> ♪
+
+1315
+01:26:21,718 --> 01:26:25,055
+♪ <i>Hope you know you inspire me</i> ♪
+
+1316
+01:26:25,138 --> 01:26:27,557
+♪ <i>You're a flower and I'm a bee</i> ♪
+
+1317
+01:26:27,641 --> 01:26:30,644
+♪ <i>I need you</i> ♪
+
+1318
+01:26:30,727 --> 01:26:33,897
+♪ <i>Ah ha ha ah</i> ♪
+
+1319
+01:26:35,357 --> 01:26:38,652
+♪ <i>All this you do for free</i> ♪
+
+1320
+01:26:38,735 --> 01:26:41,029
+♪ <i>Give me hope and I can see</i> ♪
+
+1321
+01:26:41,113 --> 01:26:44,282
+♪ <i>You're so true</i> ♪
+
+1322
+01:26:44,366 --> 01:26:47,285
+♪ <i>Ah ha ha ah</i> ♪
+
+1323
+01:26:48,537 --> 01:26:52,833
+♪ <i>And don't you worry 'bout me, babe</i> ♪
+
+1324
+01:26:52,916 --> 01:26:55,377
+♪ <i>Don't you worry 'bout me</i> ♪
+
+1325
+01:26:55,460 --> 01:27:02,467
+♪ <i>'Cause I'm right there for you to say</i> ♪
+
+1326
+01:27:06,012 --> 01:27:09,349
+♪ <i>You're strange and I'm strange</i> ♪
+
+1327
+01:27:09,433 --> 01:27:12,269
+♪ <i>Don't want you to change</i> ♪
+
+1328
+01:27:12,352 --> 01:27:14,896
+♪ <i>No way</i> ♪
+
+1329
+01:27:14,980 --> 01:27:17,983
+♪ <i>Ah ah ah ah</i> ♪
+
+1330
+01:27:18,900 --> 01:27:23,488
+♪ <i>And don't you worry 'bout me, babe</i> ♪
+
+1331
+01:27:23,572 --> 01:27:25,741
+♪ <i>Don't you worry 'bout me</i> ♪
+
+1332
+01:27:25,824 --> 01:27:32,414
+♪ <i>'Cause I'm right here for you to say</i> ♪
+
+1333
+01:27:32,497 --> 01:27:37,544
+♪ <i>To say</i> ♪
+
+1334
+01:27:50,849 --> 01:27:54,853
+♪ <i>Won't you take me to Funkytown?</i> ♪
+
+1335
+01:27:54,936 --> 01:27:58,273
+♪ <i>Won't you take me to Funkytown?</i> ♪
+
+1336
+01:27:58,815 --> 01:28:02,319
+♪ <i>Won't you take me to Funkytown?</i> ♪
+
+1337
+01:28:02,819 --> 01:28:06,281
+♪ <i>Won't you take me to Funkytown?</i> ♪
+
+1338
+01:28:38,021 --> 01:28:41,858
+♪ <i>Won't you take me to Funkytown?</i> ♪
+
+1339
+01:28:41,942 --> 01:28:45,278
+♪ <i>Won't you take me to Funkytown?</i> ♪
+
+1340
+01:28:45,904 --> 01:28:49,783
+♪ <i>Won't you take me to Funkytown?</i> ♪
+
+1341
+01:28:49,866 --> 01:28:53,662
+♪ <i>Won't you take me down to
+Funkytown?</i> ♪
+
+1342
+01:28:53,745 --> 01:28:57,624
+- ♪ <i>Won't you take me to</i> ♪
+- ♪ <i>Funkytown</i> ♪
+
+1343
+01:28:57,707 --> 01:29:01,503
+- ♪ <i>Won't you take me to</i> ♪
+- ♪ <i>Funkytown?</i> ♪
+
+1344
+01:29:01,586 --> 01:29:05,507
+- ♪ <i>Won't you take me to</i> ♪
+- ♪ <i>Funkytown?</i> ♪
+
+1345
+01:29:05,590 --> 01:29:09,469
+- ♪ <i>Won't you take me to</i> ♪
+- ♪ <i>Funkytown?</i> ♪
+
+1346
+01:29:29,489 --> 01:29:34,536
+♪ <i>Well, I talk about it, talk about it
+Talk about it, talk about it</i> ♪
+
+1347
+01:29:37,873 --> 01:29:42,460
+♪ <i>Talk about, talk about
+Talk about movin'</i> ♪
+
+1348
+01:29:45,881 --> 01:29:47,299
+♪ <i>Gotta move on</i> ♪
+
+1349
+01:29:49,801 --> 01:29:51,219
+♪ <i>Gotta move on</i> ♪
+
+1350
+01:30:02,105 --> 01:30:05,191
+♪ <i>She said I've gotta be honest</i> ♪
+
+1351
+01:30:05,275 --> 01:30:09,195
+♪ <i>You're wasting your time
+If you're fishing round here</i> ♪
+
+1352
+01:30:10,572 --> 01:30:14,034
+♪ <i>And I said you must be mistaken</i> ♪
+
+1353
+01:30:14,117 --> 01:30:17,787
+♪ <i>I'm not fooling, this feeling is real</i> ♪
+
+1354
+01:30:19,456 --> 01:30:22,459
+♪ <i>She said you've gotta be crazy</i> ♪
+
+1355
+01:30:22,542 --> 01:30:28,048
+♪ <i>What do you take me for?
+Some kind of easy mark?</i> ♪
+
+1356
+01:30:28,131 --> 01:30:30,175
+♪ <i>You've got wits, you've got looks</i> ♪
+
+1357
+01:30:30,258 --> 01:30:34,763
+♪ <i>You've got passion
+But I swear that you've got me all wrong</i> ♪
+
+1358
+01:30:35,513 --> 01:30:37,349
+♪ <i>All wrong</i> ♪
+
+1359
+01:30:39,768 --> 01:30:43,063
+♪ <i>All wrong</i> ♪
+
+1360
+01:30:44,064 --> 01:30:46,066
+♪ <i>But you've got me</i> ♪
+
+1361
+01:30:49,319 --> 01:30:51,947
+♪ <i>I'll be true, I'll be useful</i> ♪
+
+1362
+01:30:52,030 --> 01:30:54,574
+♪ <i>I'll be cavalier</i> ♪
+
+1363
+01:30:54,658 --> 01:30:56,910
+♪ <i>I'll be yours, my dear</i> ♪
+
+1364
+01:30:56,993 --> 01:31:00,246
+♪ <i>And I'll belong to you</i> ♪
+
+1365
+01:31:00,330 --> 01:31:04,542
+♪ <i>If you'll just let me through</i> ♪
+
+1366
+01:31:06,336 --> 01:31:09,339
+♪ <i>This is easy as lovers go</i> ♪
+
+1367
+01:31:09,422 --> 01:31:14,177
+♪ <i>So don't complicate it by hesitating</i> ♪
+
+1368
+01:31:14,260 --> 01:31:17,973
+♪ <i>And this is wonderful as loving goes</i> ♪
+
+1369
+01:31:18,056 --> 01:31:22,894
+♪ <i>This is tailor-made
+What's the sense in waiting</i> ♪
+
+1370
+01:31:22,978 --> 01:31:26,189
+♪ <i>And I said I've gotta be honest</i> ♪
+
+1371
+01:31:26,272 --> 01:31:29,985
+♪ <i>I've been waiting for you all my life</i> ♪
+
+1372
+01:31:31,277 --> 01:31:34,948
+♪ <i>For so long
+I thought I was asylum bound</i> ♪
+
+1373
+01:31:35,031 --> 01:31:38,868
+♪ <i>But just seeing you
+Makes me think twice</i> ♪
+
+1374
+01:31:40,328 --> 01:31:43,456
+♪ <i>You've got wits, you've got looks
+You've got passion</i> ♪
+
+1375
+01:31:43,540 --> 01:31:47,168
+♪ <i>But are you brave enough
+To leave with me tonight</i> ♪
+
+1376
+01:31:47,794 --> 01:31:49,754
+♪ <i>Tonight</i> ♪
+
+1377
+01:31:52,007 --> 01:31:55,593
+♪ <i>Tonight</i> ♪
+
+1378
+01:31:56,219 --> 01:31:58,221
+♪ <i>But you've got me</i> ♪
+
+1379
+01:32:01,599 --> 01:32:04,269
+♪ <i>I'll be true, I'll be useful</i> ♪
+
+1380
+01:32:04,352 --> 01:32:08,940
+♪ <i>I'll be cavalier
+I'll be yours, my dear</i> ♪
+
+1381
+01:32:09,024 --> 01:32:12,402
+♪ <i>And I'll belong to you</i> ♪
+
+1382
+01:32:12,485 --> 01:32:17,115
+♪ <i>If you'll just let me through</i> ♪
+
+1383
+01:32:18,533 --> 01:32:21,536
+♪ <i>This is easy as lovers go</i> ♪
+
+1384
+01:32:21,619 --> 01:32:26,499
+♪ <i>So don't complicate it by hesitating</i> ♪
+
+1385
+01:32:26,583 --> 01:32:30,170
+♪ <i>And this is wonderful as loving goes</i> ♪
+
+1386
+01:32:30,253 --> 01:32:37,260
+♪ <i>This is tailor-made
+What's the sense in waiting</i> ♪
+
